@@ -1,19 +1,19 @@
 [
   {
-    "name": "cm買取",
-    "priceS": 100,
-    "priceA": 50,
-    "priceB": 10,
-    "priceC": 5,
-    "priceD": 1,
-    "image": ""
-  },
-  {
     "name": "最低保証AR/CHR",
     "priceS": 300,
     "priceA": 120,
     "priceB": 50,
     "priceC": 10,
+    "priceD": 1,
+    "image": ""
+  },
+  {
+    "name": "cm買取",
+    "priceS": 100,
+    "priceA": 50,
+    "priceB": 10,
+    "priceC": 5,
     "priceD": 1,
     "image": ""
   },
