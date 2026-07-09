@@ -17820,15 +17820,6 @@
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/22346.webp"
   },
   {
-    "name": "ピカチュウ 【P】{133/M-P}[その他]",
-    "priceS": 1300,
-    "priceA": 750,
-    "priceB": 400,
-    "priceC": 100,
-    "priceD": 10,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/82052.webp"
-  },
-  {
     "name": "リーフィアGX 【RR】{012/066}[sm5s]",
     "priceS": 1300,
     "priceA": 750,
@@ -26989,6 +26980,15 @@
     "priceC": 50,
     "priceD": 5,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/71989.webp"
+  },
+  {
+    "name": "ピカチュウ 【P】{133/M-P}[その他]",
+    "priceS": 550,
+    "priceA": 300,
+    "priceB": 150,
+    "priceC": 50,
+    "priceD": 5,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/82052.webp"
   },
   {
     "name": "アーボδ-デルタ種 【-】{007/068}[その他]",
