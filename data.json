@@ -4554,15 +4554,6 @@
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/53310.webp"
   },
   {
-    "name": "Nのゼクロム 【AR】{210/193}[M2a]",
-    "priceS": 950,
-    "priceA": 420,
-    "priceB": 210,
-    "priceC": 70,
-    "priceD": 7,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/73707.webp"
-  },
-  {
     "name": "クリムガン 【AR】{150/086}[SV11W]",
     "priceS": 950,
     "priceA": 420,
@@ -5110,6 +5101,15 @@
     "priceC": 60,
     "priceD": 6,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/67555.webp"
+  },
+  {
+    "name": "Nのゼクロム 【AR】{210/193}[M2a]",
+    "priceS": 800,
+    "priceA": 360,
+    "priceB": 180,
+    "priceC": 60,
+    "priceD": 6,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/73707.webp"
   },
   {
     "name": "ピジョン 【AR】{119/108}[SV3]",
