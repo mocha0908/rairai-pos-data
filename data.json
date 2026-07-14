@@ -33921,15 +33921,6 @@
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1410.webp"
   },
   {
-    "name": "ミュウ 古代文字2019【P】{-}[その他]",
-    "priceS": 99000,
-    "priceA": 58000,
-    "priceB": 31000,
-    "priceC": 4500,
-    "priceD": 900,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/5090.webp"
-  },
-  {
     "name": "ミュウ 古代文字Nintedo【P】{-}[その他]",
     "priceS": 99000,
     "priceA": 58000,
@@ -34090,6 +34081,15 @@
     "priceC": 4000,
     "priceD": 800,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1414.webp"
+  },
+  {
+    "name": "ミュウ 古代文字2019【P】{-}[その他]",
+    "priceS": 88000,
+    "priceA": 52000,
+    "priceB": 28000,
+    "priceC": 4000,
+    "priceD": 800,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/5090.webp"
   },
   {
     "name": "ひかるレックウザ 【H】{057/072}[sm3+]",
@@ -36999,15 +36999,6 @@
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/21694.webp"
   },
   {
-    "name": "ピカチュウ YU NAGABA【P】{208/S-P}[その他]",
-    "priceS": 22000,
-    "priceA": 13000,
-    "priceB": 7000,
-    "priceC": 1000,
-    "priceD": 200,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/21543.webp"
-  },
-  {
     "name": "ピカチュウ 【P】{001/XY-P}[その他]",
     "priceS": 22000,
     "priceA": 13000,
@@ -38473,6 +38464,15 @@
     "priceC": 600,
     "priceD": 100,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18494.webp"
+  },
+  {
+    "name": "ピカチュウ YU NAGABA【P】{208/S-P}[その他]",
+    "priceS": 13000,
+    "priceA": 7800,
+    "priceB": 4200,
+    "priceC": 600,
+    "priceD": 100,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/21543.webp"
   },
   {
     "name": "ピカチュウ 【-】{004/004}[その他]",
