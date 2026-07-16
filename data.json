@@ -33633,6 +33633,15 @@
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18777.webp"
   },
   {
+    "name": "メタモン ピカチュウ【-】{003/015}[その他]",
+    "priceS": 110000,
+    "priceA": 65000,
+    "priceB": 35000,
+    "priceC": 5000,
+    "priceD": 1000,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/81180.webp"
+  },
+  {
     "name": "サトシのピカチュウGX RR仕様【-】{005/026}[smD]",
     "priceS": 110000,
     "priceA": 65000,
@@ -35370,15 +35379,6 @@
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/64872.webp"
   },
   {
-    "name": "メタモン ピカチュウ【-】{003/015}[その他]",
-    "priceS": 44000,
-    "priceA": 26000,
-    "priceB": 14000,
-    "priceC": 2000,
-    "priceD": 400,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/81180.webp"
-  },
-  {
     "name": "おかいものピカチュウ 【P】{079/L-P}[その他]",
     "priceS": 44000,
     "priceA": 26000,
@@ -35620,6 +35620,24 @@
     "priceC": 1700,
     "priceD": 350,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18803.webp"
+  },
+  {
+    "name": "メタモン ヒトカゲ【-】{003/015}[その他]",
+    "priceS": 38000,
+    "priceA": 22000,
+    "priceB": 12000,
+    "priceC": 1700,
+    "priceD": 350,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/81164.webp"
+  },
+  {
+    "name": "メタモン ゼニガメ【-】{002/015}[その他]",
+    "priceS": 38000,
+    "priceA": 22000,
+    "priceB": 12000,
+    "priceC": 1700,
+    "priceD": 350,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/81172.webp"
   },
   {
     "name": "ピカチュウ 【P】{008/SM-P}[その他]",
@@ -36007,15 +36025,6 @@
     "priceC": 1500,
     "priceD": 300,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18817.webp"
-  },
-  {
-    "name": "メタモン ヒトカゲ【-】{003/015}[その他]",
-    "priceS": 33000,
-    "priceA": 19000,
-    "priceB": 10000,
-    "priceC": 1500,
-    "priceD": 300,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/81164.webp"
   },
   {
     "name": "サンダースex 【-】{004/015}[PH-l]",
@@ -36979,6 +36988,15 @@
     "priceC": 1000,
     "priceD": 200,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/21694.webp"
+  },
+  {
+    "name": "メタモン バリヤード【P】{108/PCG-P}[その他]",
+    "priceS": 22000,
+    "priceA": 13000,
+    "priceB": 7000,
+    "priceC": 1000,
+    "priceD": 200,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/81196.webp"
   },
   {
     "name": "ピカチュウ 【P】{001/XY-P}[その他]",
@@ -38257,15 +38275,6 @@
     "priceC": 650,
     "priceD": 100,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/47581.webp"
-  },
-  {
-    "name": "メタモン ゼニガメ【-】{002/015}[その他]",
-    "priceS": 14000,
-    "priceA": 8400,
-    "priceB": 4500,
-    "priceC": 650,
-    "priceD": 100,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/81172.webp"
   },
   {
     "name": "ミュウ 【P】{343/S-P}[その他]",
@@ -40732,15 +40741,6 @@
     "priceC": 350,
     "priceD": 70,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18819.webp"
-  },
-  {
-    "name": "メタモン バリヤード【P】{108/PCG-P}[その他]",
-    "priceS": 7700,
-    "priceA": 4500,
-    "priceB": 2400,
-    "priceC": 350,
-    "priceD": 70,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/81196.webp"
   },
   {
     "name": "イマクニのドードー 【U】{102/087}[CP6]",
