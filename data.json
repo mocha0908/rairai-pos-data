@@ -1197,15 +1197,6 @@
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/43827.webp"
   },
   {
-    "name": "ミュウツー 【AR】{183/165}[SV2a]",
-    "priceS": 5200,
-    "priceA": 2400,
-    "priceB": 1200,
-    "priceC": 400,
-    "priceD": 40,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/43842.webp"
-  },
-  {
     "name": "イーブイ 【AR】{078/066}[SV5a]",
     "priceS": 5200,
     "priceA": 2400,
@@ -1330,6 +1321,15 @@
     "priceC": 350,
     "priceD": 35,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/22996.webp"
+  },
+  {
+    "name": "ミュウツー 【AR】{183/165}[SV2a]",
+    "priceS": 4500,
+    "priceA": 2100,
+    "priceB": 1000,
+    "priceC": 350,
+    "priceD": 35,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/43842.webp"
   },
   {
     "name": "イーユイex 【SAR】{092/071}[SV2D]",
