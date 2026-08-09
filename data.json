@@ -40,11 +40,11 @@
   },
   {
     "name": "メガレックウザex 【MUR】{113/076}[M6]",
-    "priceS": 210000,
-    "priceA": 99000,
-    "priceB": 54000,
-    "priceC": 18000,
-    "priceD": 1800,
+    "priceS": 190000,
+    "priceA": 88000,
+    "priceB": 48000,
+    "priceC": 16000,
+    "priceD": 1600,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83048.webp",
     "id": "card-5",
     "code": "",
@@ -104,19 +104,6 @@
     "image": "https://files.cardrush.media/pokemon/ocha_products/69493.webp"
   },
   {
-    "name": "メガレックウザex 【SAR】{110/076}[M6]",
-    "priceS": 86000,
-    "priceA": 39000,
-    "priceB": 21000,
-    "priceC": 7200,
-    "priceD": 720,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83045.webp",
-    "id": "card-10",
-    "code": "",
-    "rarity": "SAR",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/83045.webp"
-  },
-  {
     "name": "メガリザードンXex ※表面加工エラー【MA】{223/193}[M2a]",
     "priceS": 84000,
     "priceA": 38000,
@@ -124,7 +111,7 @@
     "priceC": 7000,
     "priceD": 700,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/74759.webp",
-    "id": "card-11",
+    "id": "card-10",
     "code": "",
     "rarity": "MA",
     "image": "https://files.cardrush.media/pokemon/ocha_products/74759.webp"
@@ -137,10 +124,23 @@
     "priceC": 7000,
     "priceD": 700,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/60257.webp",
-    "id": "card-12",
+    "id": "card-11",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/60257.webp"
+  },
+  {
+    "name": "メガレックウザex 【SAR】{110/076}[M6]",
+    "priceS": 78000,
+    "priceA": 35000,
+    "priceB": 19000,
+    "priceC": 6500,
+    "priceD": 650,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83045.webp",
+    "id": "card-12",
+    "code": "",
+    "rarity": "SAR",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/83045.webp"
   },
   {
     "name": "リザードンex 【SAR】{201/165}[SV2a]",
@@ -3302,19 +3302,6 @@
     "image": "https://files.cardrush.media/pokemon/ocha_products/83019.webp"
   },
   {
-    "name": "カクレオン 【AR】{088/076}[M6]",
-    "priceS": 2200,
-    "priceA": 930,
-    "priceB": 510,
-    "priceC": 170,
-    "priceD": 17,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83023.webp",
-    "id": "card-256",
-    "code": "",
-    "rarity": "AR",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/83023.webp"
-  },
-  {
     "name": "ネオラントV 【SAR】{216/172}[S12a]",
     "priceS": 1900,
     "priceA": 880,
@@ -3322,7 +3309,7 @@
     "priceC": 160,
     "priceD": 16,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/38396.webp",
-    "id": "card-257",
+    "id": "card-256",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/38396.webp"
@@ -3335,7 +3322,7 @@
     "priceC": 160,
     "priceD": 16,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/54809.webp",
-    "id": "card-258",
+    "id": "card-257",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/54809.webp"
@@ -3348,7 +3335,7 @@
     "priceC": 160,
     "priceD": 16,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/67256.webp",
-    "id": "card-259",
+    "id": "card-258",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/67256.webp"
@@ -3361,7 +3348,7 @@
     "priceC": 160,
     "priceD": 16,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/53303.webp",
-    "id": "card-260",
+    "id": "card-259",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/53303.webp"
@@ -3374,7 +3361,7 @@
     "priceC": 160,
     "priceD": 16,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/73696.webp",
-    "id": "card-261",
+    "id": "card-260",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/73696.webp"
@@ -3387,7 +3374,7 @@
     "priceC": 160,
     "priceD": 16,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/22968.webp",
-    "id": "card-262",
+    "id": "card-261",
     "code": "",
     "rarity": "CHR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/22968.webp"
@@ -3400,23 +3387,10 @@
     "priceC": 160,
     "priceD": 16,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/5189.webp",
-    "id": "card-263",
+    "id": "card-262",
     "code": "",
     "rarity": "CHR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/5189.webp"
-  },
-  {
-    "name": "メガグソクムシャex 【SAR】{107/076}[M6]",
-    "priceS": 1900,
-    "priceA": 880,
-    "priceB": 480,
-    "priceC": 160,
-    "priceD": 16,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83042.webp",
-    "id": "card-264",
-    "code": "",
-    "rarity": "SAR",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/83042.webp"
   },
   {
     "name": "チオンジェンex 【SAR】{092/071}[SV2P]",
@@ -3426,7 +3400,7 @@
     "priceC": 160,
     "priceD": 16,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/41826.webp",
-    "id": "card-265",
+    "id": "card-263",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/41826.webp"
@@ -3439,7 +3413,7 @@
     "priceC": 160,
     "priceD": 16,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/49684.webp",
-    "id": "card-266",
+    "id": "card-264",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/49684.webp"
@@ -3452,7 +3426,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/73729.webp",
-    "id": "card-267",
+    "id": "card-265",
     "code": "",
     "rarity": "MA",
     "image": "https://files.cardrush.media/pokemon/ocha_products/73729.webp"
@@ -3465,7 +3439,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/73730.webp",
-    "id": "card-268",
+    "id": "card-266",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/73730.webp"
@@ -3478,7 +3452,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/73735.webp",
-    "id": "card-269",
+    "id": "card-267",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/73735.webp"
@@ -3491,7 +3465,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/62004.webp",
-    "id": "card-270",
+    "id": "card-268",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/62004.webp"
@@ -3504,7 +3478,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/62008.webp",
-    "id": "card-271",
+    "id": "card-269",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/62008.webp"
@@ -3517,7 +3491,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/62022.webp",
-    "id": "card-272",
+    "id": "card-270",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/62022.webp"
@@ -3530,7 +3504,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/38405.webp",
-    "id": "card-273",
+    "id": "card-271",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/38405.webp"
@@ -3543,7 +3517,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/53325.webp",
-    "id": "card-274",
+    "id": "card-272",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/53325.webp"
@@ -3556,7 +3530,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/59576.webp",
-    "id": "card-275",
+    "id": "card-273",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/59576.webp"
@@ -3569,7 +3543,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/58242.webp",
-    "id": "card-276",
+    "id": "card-274",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/58242.webp"
@@ -3582,7 +3556,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/23000.webp",
-    "id": "card-277",
+    "id": "card-275",
     "code": "",
     "rarity": "CSR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/23000.webp"
@@ -3595,7 +3569,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/23015.webp",
-    "id": "card-278",
+    "id": "card-276",
     "code": "",
     "rarity": "CSR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/23015.webp"
@@ -3608,7 +3582,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/63618.webp",
-    "id": "card-279",
+    "id": "card-277",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/63618.webp"
@@ -3621,7 +3595,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/53304.webp",
-    "id": "card-280",
+    "id": "card-278",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/53304.webp"
@@ -3634,7 +3608,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/45901.webp",
-    "id": "card-281",
+    "id": "card-279",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/45901.webp"
@@ -3647,7 +3621,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/43835.webp",
-    "id": "card-282",
+    "id": "card-280",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/43835.webp"
@@ -3660,7 +3634,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/39537.webp",
-    "id": "card-283",
+    "id": "card-281",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/39537.webp"
@@ -3673,7 +3647,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/59558.webp",
-    "id": "card-284",
+    "id": "card-282",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/59558.webp"
@@ -3686,7 +3660,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/67292.webp",
-    "id": "card-285",
+    "id": "card-283",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/67292.webp"
@@ -3699,7 +3673,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/51070.webp",
-    "id": "card-286",
+    "id": "card-284",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/51070.webp"
@@ -3712,7 +3686,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/38370.webp",
-    "id": "card-287",
+    "id": "card-285",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/38370.webp"
@@ -3725,7 +3699,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/57364.webp",
-    "id": "card-288",
+    "id": "card-286",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/57364.webp"
@@ -3738,7 +3712,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/43840.webp",
-    "id": "card-289",
+    "id": "card-287",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/43840.webp"
@@ -3751,7 +3725,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/38387.webp",
-    "id": "card-290",
+    "id": "card-288",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/38387.webp"
@@ -3764,7 +3738,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/38389.webp",
-    "id": "card-291",
+    "id": "card-289",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/38389.webp"
@@ -3777,10 +3751,23 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83044.webp",
-    "id": "card-292",
+    "id": "card-290",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/83044.webp"
+  },
+  {
+    "name": "カクレオン 【AR】{088/076}[M6]",
+    "priceS": 1900,
+    "priceA": 820,
+    "priceB": 450,
+    "priceC": 150,
+    "priceD": 15,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83023.webp",
+    "id": "card-291",
+    "code": "",
+    "rarity": "AR",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/83023.webp"
   },
   {
     "name": "テツノカイナex 【SAR】{088/066}[SV4M]",
@@ -3790,7 +3777,7 @@
     "priceC": 150,
     "priceD": 15,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/49680.webp",
-    "id": "card-293",
+    "id": "card-292",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/49680.webp"
@@ -3803,7 +3790,7 @@
     "priceC": 140,
     "priceD": 14,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/73736.webp",
-    "id": "card-294",
+    "id": "card-293",
     "code": "",
     "rarity": "SAR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/73736.webp"
@@ -3816,7 +3803,7 @@
     "priceC": 140,
     "priceD": 14,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/67271.webp",
-    "id": "card-295",
+    "id": "card-294",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/67271.webp"
@@ -3829,7 +3816,7 @@
     "priceC": 140,
     "priceD": 14,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/41807.webp",
-    "id": "card-296",
+    "id": "card-295",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/41807.webp"
@@ -3842,7 +3829,7 @@
     "priceC": 140,
     "priceD": 14,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/67522.webp",
-    "id": "card-297",
+    "id": "card-296",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/67522.webp"
@@ -3855,7 +3842,7 @@
     "priceC": 140,
     "priceD": 14,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/41841.webp",
-    "id": "card-298",
+    "id": "card-297",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/41841.webp"
@@ -3868,7 +3855,7 @@
     "priceC": 140,
     "priceD": 14,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/38384.webp",
-    "id": "card-299",
+    "id": "card-298",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/38384.webp"
@@ -3881,7 +3868,7 @@
     "priceC": 140,
     "priceD": 14,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/38386.webp",
-    "id": "card-300",
+    "id": "card-299",
     "code": "",
     "rarity": "AR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/38386.webp"
@@ -3894,10 +3881,23 @@
     "priceC": 140,
     "priceD": 14,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/22989.webp",
-    "id": "card-301",
+    "id": "card-300",
     "code": "",
     "rarity": "CHR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/22989.webp"
+  },
+  {
+    "name": "メガグソクムシャex 【SAR】{107/076}[M6]",
+    "priceS": 1600,
+    "priceA": 770,
+    "priceB": 420,
+    "priceC": 140,
+    "priceD": 14,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83042.webp",
+    "id": "card-301",
+    "code": "",
+    "rarity": "SAR",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/83042.webp"
   },
   {
     "name": "イダイナキバex 【SAR】{102/078}[SV1S]",
@@ -13039,19 +13039,6 @@
     "image": "https://files.cardrush.media/pokemon/ocha_products/2156.webp"
   },
   {
-    "name": "メガレックウザex 【SR】{095/076}[M6]",
-    "priceS": 4900,
-    "priceA": 2900,
-    "priceB": 1500,
-    "priceC": 200,
-    "priceD": 40,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83030.webp",
-    "id": "card-1005",
-    "code": "",
-    "rarity": "SR",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/83030.webp"
-  },
-  {
     "name": "ジラーチ 【P】{129/XY-P}[PROMO]",
     "priceS": 4900,
     "priceA": 2900,
@@ -13059,7 +13046,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/55405.webp",
-    "id": "card-1006",
+    "id": "card-1005",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/55405.webp"
@@ -13072,7 +13059,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/37628.webp",
-    "id": "card-1007",
+    "id": "card-1006",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/37628.webp"
@@ -13085,7 +13072,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/37629.webp",
-    "id": "card-1008",
+    "id": "card-1007",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/37629.webp"
@@ -13098,7 +13085,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/24438.webp",
-    "id": "card-1009",
+    "id": "card-1008",
     "code": "",
     "rarity": "UR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/24438.webp"
@@ -13111,7 +13098,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1340.webp",
-    "id": "card-1010",
+    "id": "card-1009",
     "code": "",
     "rarity": "UR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1340.webp"
@@ -13124,7 +13111,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/70045.webp",
-    "id": "card-1011",
+    "id": "card-1010",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/70045.webp"
@@ -13137,7 +13124,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/14085.webp",
-    "id": "card-1012",
+    "id": "card-1011",
     "code": "",
     "rarity": "A",
     "image": "https://files.cardrush.media/pokemon/ocha_products/14085.webp"
@@ -13150,7 +13137,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/21494.webp",
-    "id": "card-1013",
+    "id": "card-1012",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/21494.webp"
@@ -13163,7 +13150,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/4040.webp",
-    "id": "card-1014",
+    "id": "card-1013",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/4040.webp"
@@ -13176,7 +13163,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/43844.webp",
-    "id": "card-1015",
+    "id": "card-1014",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/43844.webp"
@@ -13189,7 +13176,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1474.webp",
-    "id": "card-1016",
+    "id": "card-1015",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1474.webp"
@@ -13202,7 +13189,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/2932.webp",
-    "id": "card-1017",
+    "id": "card-1016",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/2932.webp"
@@ -13215,7 +13202,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1639.webp",
-    "id": "card-1018",
+    "id": "card-1017",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1639.webp"
@@ -13228,7 +13215,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1431.webp",
-    "id": "card-1019",
+    "id": "card-1018",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1431.webp"
@@ -13241,7 +13228,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/200.webp",
-    "id": "card-1020",
+    "id": "card-1019",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/200.webp"
@@ -13254,7 +13241,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/903.webp",
-    "id": "card-1021",
+    "id": "card-1020",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/903.webp"
@@ -13267,7 +13254,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/227.webp",
-    "id": "card-1022",
+    "id": "card-1021",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/227.webp"
@@ -13280,7 +13267,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/836.webp",
-    "id": "card-1023",
+    "id": "card-1022",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/836.webp"
@@ -13293,7 +13280,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/2485.webp",
-    "id": "card-1024",
+    "id": "card-1023",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/2485.webp"
@@ -13306,7 +13293,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/137.webp",
-    "id": "card-1025",
+    "id": "card-1024",
     "code": "",
     "rarity": "UR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/137.webp"
@@ -13319,7 +13306,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/72403.webp",
-    "id": "card-1026",
+    "id": "card-1025",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/72403.webp"
@@ -13332,7 +13319,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/72321.webp",
-    "id": "card-1027",
+    "id": "card-1026",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/72321.webp"
@@ -13345,7 +13332,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1296.webp",
-    "id": "card-1028",
+    "id": "card-1027",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1296.webp"
@@ -13358,7 +13345,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/5734.webp",
-    "id": "card-1029",
+    "id": "card-1028",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/5734.webp"
@@ -13371,7 +13358,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/3302.webp",
-    "id": "card-1030",
+    "id": "card-1029",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/3302.webp"
@@ -13384,7 +13371,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/5170.webp",
-    "id": "card-1031",
+    "id": "card-1030",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/5170.webp"
@@ -13397,7 +13384,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/55398.webp",
-    "id": "card-1032",
+    "id": "card-1031",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/55398.webp"
@@ -13410,7 +13397,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18541.webp",
-    "id": "card-1033",
+    "id": "card-1032",
     "code": "",
     "rarity": "U",
     "image": "https://files.cardrush.media/pokemon/ocha_products/18541.webp"
@@ -13423,7 +13410,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18544.webp",
-    "id": "card-1034",
+    "id": "card-1033",
     "code": "",
     "rarity": "C",
     "image": "https://files.cardrush.media/pokemon/ocha_products/18544.webp"
@@ -13436,7 +13423,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18861.webp",
-    "id": "card-1035",
+    "id": "card-1034",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/18861.webp"
@@ -13449,7 +13436,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18862.webp",
-    "id": "card-1036",
+    "id": "card-1035",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/18862.webp"
@@ -13462,7 +13449,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18858.webp",
-    "id": "card-1037",
+    "id": "card-1036",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/18858.webp"
@@ -13475,7 +13462,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/66245.webp",
-    "id": "card-1038",
+    "id": "card-1037",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/66245.webp"
@@ -13488,7 +13475,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/79453.webp",
-    "id": "card-1039",
+    "id": "card-1038",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/79453.webp"
@@ -13501,7 +13488,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/58575.webp",
-    "id": "card-1040",
+    "id": "card-1039",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/58575.webp"
@@ -13514,7 +13501,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/6502.webp",
-    "id": "card-1041",
+    "id": "card-1040",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/6502.webp"
@@ -13527,7 +13514,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/58627.webp",
-    "id": "card-1042",
+    "id": "card-1041",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/58627.webp"
@@ -13540,7 +13527,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/58589.webp",
-    "id": "card-1043",
+    "id": "card-1042",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/58589.webp"
@@ -13553,7 +13540,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/58633.webp",
-    "id": "card-1044",
+    "id": "card-1043",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/58633.webp"
@@ -13566,7 +13553,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/63124.webp",
-    "id": "card-1045",
+    "id": "card-1044",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/63124.webp"
@@ -13579,7 +13566,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/712.webp",
-    "id": "card-1046",
+    "id": "card-1045",
     "code": "",
     "rarity": "R",
     "image": "https://files.cardrush.media/pokemon/ocha_products/712.webp"
@@ -13592,7 +13579,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/71424.webp",
-    "id": "card-1047",
+    "id": "card-1046",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/71424.webp"
@@ -13605,7 +13592,7 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/6367.webp",
-    "id": "card-1048",
+    "id": "card-1047",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/6367.webp"
@@ -13618,10 +13605,23 @@
     "priceC": 200,
     "priceD": 40,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1653.webp",
-    "id": "card-1049",
+    "id": "card-1048",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1653.webp"
+  },
+  {
+    "name": "メガレックウザex 【SR】{095/076}[M6]",
+    "priceS": 4600,
+    "priceA": 2700,
+    "priceB": 1400,
+    "priceC": 200,
+    "priceD": 40,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83030.webp",
+    "id": "card-1049",
+    "code": "",
+    "rarity": "SR",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/83030.webp"
   },
   {
     "name": "メタグロスGX 【HR】{059/050}[sm2L]",
@@ -24453,19 +24453,6 @@
     "image": "https://files.cardrush.media/pokemon/ocha_products/75867.webp"
   },
   {
-    "name": "ファイアローex 【SR】{096/076}[M6]",
-    "priceS": 1400,
-    "priceA": 800,
-    "priceB": 450,
-    "priceC": 60,
-    "priceD": 10,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83031.webp",
-    "id": "card-1883",
-    "code": "",
-    "rarity": "SR",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/83031.webp"
-  },
-  {
     "name": "ブラッキー 【U】{058/095}[sm8]",
     "priceS": 1400,
     "priceA": 800,
@@ -24473,7 +24460,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1907.webp",
-    "id": "card-1884",
+    "id": "card-1883",
     "code": "",
     "rarity": "U",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1907.webp"
@@ -24486,7 +24473,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/817.webp",
-    "id": "card-1885",
+    "id": "card-1884",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/817.webp"
@@ -24499,7 +24486,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/818.webp",
-    "id": "card-1886",
+    "id": "card-1885",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/818.webp"
@@ -24512,7 +24499,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/37571.webp",
-    "id": "card-1887",
+    "id": "card-1886",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/37571.webp"
@@ -24525,7 +24512,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/74953.webp",
-    "id": "card-1888",
+    "id": "card-1887",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/74953.webp"
@@ -24538,7 +24525,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/65272.webp",
-    "id": "card-1889",
+    "id": "card-1888",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/65272.webp"
@@ -24551,7 +24538,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/317.webp",
-    "id": "card-1890",
+    "id": "card-1889",
     "code": "",
     "rarity": "UR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/317.webp"
@@ -24564,7 +24551,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/58233.webp",
-    "id": "card-1891",
+    "id": "card-1890",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/58233.webp"
@@ -24577,7 +24564,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/58234.webp",
-    "id": "card-1892",
+    "id": "card-1891",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/58234.webp"
@@ -24590,7 +24577,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/38430.webp",
-    "id": "card-1893",
+    "id": "card-1892",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/38430.webp"
@@ -24603,7 +24590,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/60263.webp",
-    "id": "card-1894",
+    "id": "card-1893",
     "code": "",
     "rarity": "UR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/60263.webp"
@@ -24616,7 +24603,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/58245.webp",
-    "id": "card-1895",
+    "id": "card-1894",
     "code": "",
     "rarity": "UR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/58245.webp"
@@ -24629,7 +24616,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/22395.webp",
-    "id": "card-1896",
+    "id": "card-1895",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/22395.webp"
@@ -24642,7 +24629,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/46121.webp",
-    "id": "card-1897",
+    "id": "card-1896",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/46121.webp"
@@ -24655,7 +24642,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/38083.webp",
-    "id": "card-1898",
+    "id": "card-1897",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/38083.webp"
@@ -24668,7 +24655,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/7941.webp",
-    "id": "card-1899",
+    "id": "card-1898",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/7941.webp"
@@ -24681,7 +24668,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/13932.webp",
-    "id": "card-1900",
+    "id": "card-1899",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/13932.webp"
@@ -24694,7 +24681,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/7083.webp",
-    "id": "card-1901",
+    "id": "card-1900",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/7083.webp"
@@ -24707,7 +24694,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/17481.webp",
-    "id": "card-1902",
+    "id": "card-1901",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/17481.webp"
@@ -24720,7 +24707,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/192.webp",
-    "id": "card-1903",
+    "id": "card-1902",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/192.webp"
@@ -24733,7 +24720,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/19944.webp",
-    "id": "card-1904",
+    "id": "card-1903",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/19944.webp"
@@ -24746,7 +24733,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/19970.webp",
-    "id": "card-1905",
+    "id": "card-1904",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/19970.webp"
@@ -24759,7 +24746,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/519.webp",
-    "id": "card-1906",
+    "id": "card-1905",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/519.webp"
@@ -24772,7 +24759,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1701.webp",
-    "id": "card-1907",
+    "id": "card-1906",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1701.webp"
@@ -24785,7 +24772,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18253.webp",
-    "id": "card-1908",
+    "id": "card-1907",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/18253.webp"
@@ -24798,7 +24785,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18237.webp",
-    "id": "card-1909",
+    "id": "card-1908",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/18237.webp"
@@ -24811,7 +24798,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18240.webp",
-    "id": "card-1910",
+    "id": "card-1909",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/18240.webp"
@@ -24824,7 +24811,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/43843.webp",
-    "id": "card-1911",
+    "id": "card-1910",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/43843.webp"
@@ -24837,7 +24824,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/39512.webp",
-    "id": "card-1912",
+    "id": "card-1911",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/39512.webp"
@@ -24850,7 +24837,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/995.webp",
-    "id": "card-1913",
+    "id": "card-1912",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/995.webp"
@@ -24863,7 +24850,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/658.webp",
-    "id": "card-1914",
+    "id": "card-1913",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/658.webp"
@@ -24876,7 +24863,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1992.webp",
-    "id": "card-1915",
+    "id": "card-1914",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1992.webp"
@@ -24889,7 +24876,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1523.webp",
-    "id": "card-1916",
+    "id": "card-1915",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1523.webp"
@@ -24902,7 +24889,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/927.webp",
-    "id": "card-1917",
+    "id": "card-1916",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/927.webp"
@@ -24915,7 +24902,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/20752.webp",
-    "id": "card-1918",
+    "id": "card-1917",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/20752.webp"
@@ -24928,7 +24915,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/14145.webp",
-    "id": "card-1919",
+    "id": "card-1918",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/14145.webp"
@@ -24941,7 +24928,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/14146.webp",
-    "id": "card-1920",
+    "id": "card-1919",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/14146.webp"
@@ -24954,7 +24941,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/19006.webp",
-    "id": "card-1921",
+    "id": "card-1920",
     "code": "",
     "rarity": "HR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/19006.webp"
@@ -24967,7 +24954,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/4004.webp",
-    "id": "card-1922",
+    "id": "card-1921",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/4004.webp"
@@ -24980,7 +24967,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/20179.webp",
-    "id": "card-1923",
+    "id": "card-1922",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/20179.webp"
@@ -24993,7 +24980,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/7024.webp",
-    "id": "card-1924",
+    "id": "card-1923",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/7024.webp"
@@ -25006,7 +24993,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/13179.webp",
-    "id": "card-1925",
+    "id": "card-1924",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/13179.webp"
@@ -25019,7 +25006,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/209.webp",
-    "id": "card-1926",
+    "id": "card-1925",
     "code": "",
     "rarity": "UR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/209.webp"
@@ -25032,7 +25019,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/72387.webp",
-    "id": "card-1927",
+    "id": "card-1926",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/72387.webp"
@@ -25045,7 +25032,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/72393.webp",
-    "id": "card-1928",
+    "id": "card-1927",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/72393.webp"
@@ -25058,7 +25045,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/72346.webp",
-    "id": "card-1929",
+    "id": "card-1928",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/72346.webp"
@@ -25071,7 +25058,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1113.webp",
-    "id": "card-1930",
+    "id": "card-1929",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1113.webp"
@@ -25084,7 +25071,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/4322.webp",
-    "id": "card-1931",
+    "id": "card-1930",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/4322.webp"
@@ -25097,7 +25084,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/5482.webp",
-    "id": "card-1932",
+    "id": "card-1931",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/5482.webp"
@@ -25110,7 +25097,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/22597.webp",
-    "id": "card-1933",
+    "id": "card-1932",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/22597.webp"
@@ -25123,7 +25110,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/6279.webp",
-    "id": "card-1934",
+    "id": "card-1933",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/6279.webp"
@@ -25136,7 +25123,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/55395.webp",
-    "id": "card-1935",
+    "id": "card-1934",
     "code": "",
     "rarity": "R",
     "image": "https://files.cardrush.media/pokemon/ocha_products/55395.webp"
@@ -25149,7 +25136,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/6885.webp",
-    "id": "card-1936",
+    "id": "card-1935",
     "code": "",
     "rarity": "R",
     "image": "https://files.cardrush.media/pokemon/ocha_products/6885.webp"
@@ -25162,7 +25149,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/22115.webp",
-    "id": "card-1937",
+    "id": "card-1936",
     "code": "",
     "rarity": "RRR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/22115.webp"
@@ -25175,7 +25162,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/38138.webp",
-    "id": "card-1938",
+    "id": "card-1937",
     "code": "",
     "rarity": "RRR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/38138.webp"
@@ -25188,7 +25175,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/4545.webp",
-    "id": "card-1939",
+    "id": "card-1938",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/4545.webp"
@@ -25201,7 +25188,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/404.webp",
-    "id": "card-1940",
+    "id": "card-1939",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/404.webp"
@@ -25214,7 +25201,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18545.webp",
-    "id": "card-1941",
+    "id": "card-1940",
     "code": "",
     "rarity": "U",
     "image": "https://files.cardrush.media/pokemon/ocha_products/18545.webp"
@@ -25227,7 +25214,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/58430.webp",
-    "id": "card-1942",
+    "id": "card-1941",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/58430.webp"
@@ -25240,7 +25227,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1124.webp",
-    "id": "card-1943",
+    "id": "card-1942",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1124.webp"
@@ -25253,7 +25240,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/35754.webp",
-    "id": "card-1944",
+    "id": "card-1943",
     "code": "",
     "rarity": "R",
     "image": "https://files.cardrush.media/pokemon/ocha_products/35754.webp"
@@ -25266,7 +25253,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/5878.webp",
-    "id": "card-1945",
+    "id": "card-1944",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/5878.webp"
@@ -25279,7 +25266,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/285.webp",
-    "id": "card-1946",
+    "id": "card-1945",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/285.webp"
@@ -25292,7 +25279,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/284.webp",
-    "id": "card-1947",
+    "id": "card-1946",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/284.webp"
@@ -25305,7 +25292,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1528.webp",
-    "id": "card-1948",
+    "id": "card-1947",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1528.webp"
@@ -25318,7 +25305,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/80660.webp",
-    "id": "card-1949",
+    "id": "card-1948",
     "code": "",
     "rarity": "RR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/80660.webp"
@@ -25331,7 +25318,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/2211.webp",
-    "id": "card-1950",
+    "id": "card-1949",
     "code": "",
     "rarity": "UR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/2211.webp"
@@ -25344,7 +25331,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/17476.webp",
-    "id": "card-1951",
+    "id": "card-1950",
     "code": "",
     "rarity": "UR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/17476.webp"
@@ -25357,7 +25344,7 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/17479.webp",
-    "id": "card-1952",
+    "id": "card-1951",
     "code": "",
     "rarity": "UR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/17479.webp"
@@ -25370,10 +25357,23 @@
     "priceC": 60,
     "priceD": 10,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/75863.webp",
-    "id": "card-1953",
+    "id": "card-1952",
     "code": "",
     "rarity": "-",
     "image": "https://files.cardrush.media/pokemon/ocha_products/75863.webp"
+  },
+  {
+    "name": "ファイアローex 【SR】{096/076}[M6]",
+    "priceS": 1300,
+    "priceA": 750,
+    "priceB": 400,
+    "priceC": 60,
+    "priceD": 10,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/83031.webp",
+    "id": "card-1953",
+    "code": "",
+    "rarity": "SR",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/83031.webp"
   },
   {
     "name": "ラティオス◇ 【PR】{067/096}[sm7]",
