@@ -88647,19 +88647,6 @@
     "image": "https://files.cardrush.media/pokemon/ocha_products/35687.webp"
   },
   {
-    "name": "ルチア 【SR】{104/096}[sm7]",
-    "priceS": 150000,
-    "priceA": 91000,
-    "priceB": 49000,
-    "priceC": 7000,
-    "priceD": 1400,
-    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1631.webp",
-    "id": "card-6821",
-    "code": "",
-    "rarity": "SR",
-    "image": "https://files.cardrush.media/pokemon/ocha_products/1631.webp"
-  },
-  {
     "name": "ジラーチ 【P】{235/XY-P}[その他]",
     "priceS": 150000,
     "priceA": 91000,
@@ -88667,7 +88654,7 @@
     "priceC": 7000,
     "priceD": 1400,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/720.webp",
-    "id": "card-6822",
+    "id": "card-6821",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/720.webp"
@@ -88680,7 +88667,7 @@
     "priceC": 7000,
     "priceD": 1400,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/18834.webp",
-    "id": "card-6823",
+    "id": "card-6822",
     "code": "",
     "rarity": "U",
     "image": "https://files.cardrush.media/pokemon/ocha_products/18834.webp"
@@ -88693,7 +88680,7 @@
     "priceC": 7000,
     "priceD": 1400,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/7254.webp",
-    "id": "card-6824",
+    "id": "card-6823",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/7254.webp"
@@ -88706,7 +88693,7 @@
     "priceC": 7000,
     "priceD": 1400,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/947.webp",
-    "id": "card-6825",
+    "id": "card-6824",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/947.webp"
@@ -88719,7 +88706,7 @@
     "priceC": 7000,
     "priceD": 1400,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1187.webp",
-    "id": "card-6826",
+    "id": "card-6825",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1187.webp"
@@ -88732,7 +88719,7 @@
     "priceC": 7000,
     "priceD": 1400,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1057.webp",
-    "id": "card-6827",
+    "id": "card-6826",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/1057.webp"
@@ -88745,7 +88732,7 @@
     "priceC": 7000,
     "priceD": 1400,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/630.webp",
-    "id": "card-6828",
+    "id": "card-6827",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/630.webp"
@@ -88758,7 +88745,7 @@
     "priceC": 7000,
     "priceD": 1400,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/734.webp",
-    "id": "card-6829",
+    "id": "card-6828",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/734.webp"
@@ -88771,7 +88758,7 @@
     "priceC": 7000,
     "priceD": 1400,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/2857.webp",
-    "id": "card-6830",
+    "id": "card-6829",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/2857.webp"
@@ -88784,7 +88771,7 @@
     "priceC": 7000,
     "priceD": 1400,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/2588.webp",
-    "id": "card-6831",
+    "id": "card-6830",
     "code": "",
     "rarity": "P",
     "image": "https://files.cardrush.media/pokemon/ocha_products/2588.webp"
@@ -88797,10 +88784,23 @@
     "priceC": 6500,
     "priceD": 1300,
     "画像URL": "https://files.cardrush.media/pokemon/ocha_products/643.webp",
-    "id": "card-6832",
+    "id": "card-6831",
     "code": "",
     "rarity": "SR",
     "image": "https://files.cardrush.media/pokemon/ocha_products/643.webp"
+  },
+  {
+    "name": "ルチア 【SR】{104/096}[sm7]",
+    "priceS": 140000,
+    "priceA": 84000,
+    "priceB": 45000,
+    "priceC": 6500,
+    "priceD": 1300,
+    "画像URL": "https://files.cardrush.media/pokemon/ocha_products/1631.webp",
+    "id": "card-6832",
+    "code": "",
+    "rarity": "SR",
+    "image": "https://files.cardrush.media/pokemon/ocha_products/1631.webp"
   },
   {
     "name": "モノマネむすめ キラ【P】{024/L-P}[その他]",
