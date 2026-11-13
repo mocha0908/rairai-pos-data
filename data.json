@@ -54,7 +54,7 @@
   {
     "name": "ピカチュウ 中国語版【AR】{170/151}[151C]",
     "priceS": 90000,
-    "priceA": 45000,
+    "priceA": 37000,
     "priceB": 22000,
     "priceC": 7500,
     "priceD": 750,
@@ -262,7 +262,7 @@
   {
     "name": "ピカチュウ 【AR】{205/172}[S12a]",
     "priceS": 30000,
-    "priceA": 15000,
+    "priceA": 12000,
     "priceB": 7500,
     "priceC": 2500,
     "priceD": 250,
@@ -613,7 +613,7 @@
   {
     "name": "コイキング 【AR】{080/073}[SV1a]",
     "priceS": 13000,
-    "priceA": 6600,
+    "priceA": 5500,
     "priceB": 3300,
     "priceC": 1100,
     "priceD": 110,
@@ -1042,7 +1042,7 @@
   {
     "name": "ガマゲロゲ 【AR】{109/086}[SV11B]",
     "priceS": 6000,
-    "priceA": 3000,
+    "priceA": 2500,
     "priceB": 1500,
     "priceC": 500,
     "priceD": 50,
@@ -1107,7 +1107,7 @@
   {
     "name": "ミュウ 【AR】{183/172}[S12a]",
     "priceS": 5400,
-    "priceA": 2700,
+    "priceA": 2200,
     "priceB": 1300,
     "priceC": 450,
     "priceD": 45,
@@ -1406,7 +1406,7 @@
   {
     "name": "ゴース 【AR】{080/071}[SV5K]",
     "priceS": 3900,
-    "priceA": 1900,
+    "priceA": 1600,
     "priceB": 990,
     "priceC": 330,
     "priceD": 33,
@@ -1601,7 +1601,7 @@
   {
     "name": "ミジュマル 【AR】{102/086}[SV11W]",
     "priceS": 3600,
-    "priceA": 1800,
+    "priceA": 1500,
     "priceB": 900,
     "priceC": 300,
     "priceD": 30,
@@ -1614,7 +1614,7 @@
   {
     "name": "イーブイ 【AR】{078/066}[SV5a]",
     "priceS": 3600,
-    "priceA": 1800,
+    "priceA": 1500,
     "priceB": 900,
     "priceC": 300,
     "priceD": 30,
@@ -1926,7 +1926,7 @@
   {
     "name": "カスミのコダック 【AR】{071/063}[SV9a]",
     "priceS": 3000,
-    "priceA": 1500,
+    "priceA": 1200,
     "priceB": 750,
     "priceC": 250,
     "priceD": 25,
@@ -2342,7 +2342,7 @@
   {
     "name": "ヒトカゲ 【AR】{168/165}[SV2a]",
     "priceS": 2400,
-    "priceA": 1200,
+    "priceA": 1000,
     "priceB": 600,
     "priceC": 200,
     "priceD": 20,
@@ -2355,7 +2355,7 @@
   {
     "name": "ゼニガメ 【AR】{170/165}[SV2a]",
     "priceS": 2400,
-    "priceA": 1200,
+    "priceA": 1000,
     "priceB": 600,
     "priceC": 200,
     "priceD": 20,
@@ -2368,7 +2368,7 @@
   {
     "name": "コダック 【AR】{175/165}[SV2a]",
     "priceS": 2400,
-    "priceA": 1200,
+    "priceA": 1000,
     "priceB": 600,
     "priceC": 200,
     "priceD": 20,
@@ -2381,7 +2381,7 @@
   {
     "name": "ピカチュウ 【AR】{173/165}[SV2a]",
     "priceS": 2400,
-    "priceA": 1200,
+    "priceA": 1000,
     "priceB": 600,
     "priceC": 200,
     "priceD": 20,
@@ -2394,7 +2394,7 @@
   {
     "name": "ミュウツー 【AR】{183/165}[SV2a]",
     "priceS": 2400,
-    "priceA": 1200,
+    "priceA": 1000,
     "priceB": 600,
     "priceC": 200,
     "priceD": 20,
@@ -2407,7 +2407,7 @@
   {
     "name": "ミミッキュ 【AR】{341/190}[SV4a]",
     "priceS": 2400,
-    "priceA": 1200,
+    "priceA": 1000,
     "priceB": 600,
     "priceC": 200,
     "priceD": 20,
@@ -2420,7 +2420,7 @@
   {
     "name": "ゾロア 【AR】{140/086}[SV11W]",
     "priceS": 2400,
-    "priceA": 1200,
+    "priceA": 1000,
     "priceB": 600,
     "priceC": 200,
     "priceD": 20,
@@ -2498,7 +2498,7 @@
   {
     "name": "リオル 【AR】{201/172}[S12a]",
     "priceS": 2200,
-    "priceA": 1100,
+    "priceA": 950,
     "priceB": 570,
     "priceC": 190,
     "priceD": 19,
@@ -2641,7 +2641,7 @@
   {
     "name": "ユニラン 【AR】{123/086}[SV11B]",
     "priceS": 2100,
-    "priceA": 1000,
+    "priceA": 900,
     "priceB": 540,
     "priceC": 180,
     "priceD": 18,
@@ -2654,7 +2654,7 @@
   {
     "name": "グラードン 【AR】{069/062}[SV3a]",
     "priceS": 2100,
-    "priceA": 1000,
+    "priceA": 900,
     "priceB": 540,
     "priceC": 180,
     "priceD": 18,
@@ -2693,7 +2693,7 @@
   {
     "name": "ドレディア 【AR】{092/086}[SV11B]",
     "priceS": 2000,
-    "priceA": 1000,
+    "priceA": 850,
     "priceB": 510,
     "priceC": 170,
     "priceD": 17,
@@ -2706,7 +2706,7 @@
   {
     "name": "シャンデラ 【AR】{102/086}[SV11B]",
     "priceS": 2000,
-    "priceA": 1000,
+    "priceA": 850,
     "priceB": 510,
     "priceC": 170,
     "priceD": 17,
@@ -2758,7 +2758,7 @@
   {
     "name": "ヤドン 【AR】{082/078}[SV1V]",
     "priceS": 1900,
-    "priceA": 960,
+    "priceA": 800,
     "priceB": 480,
     "priceC": 160,
     "priceD": 16,
@@ -2771,7 +2771,7 @@
   {
     "name": "ナエトル 【AR】{206/172}[S12a]",
     "priceS": 1900,
-    "priceA": 960,
+    "priceA": 800,
     "priceB": 480,
     "priceC": 160,
     "priceD": 16,
@@ -2966,7 +2966,7 @@
   {
     "name": "ビクティニ 【AR】{097/086}[SV11B]",
     "priceS": 1800,
-    "priceA": 900,
+    "priceA": 750,
     "priceB": 450,
     "priceC": 150,
     "priceD": 15,
@@ -2979,7 +2979,7 @@
   {
     "name": "ポカブ 【AR】{096/086}[SV11W]",
     "priceS": 1800,
-    "priceA": 900,
+    "priceA": 750,
     "priceB": 450,
     "priceC": 150,
     "priceD": 15,
@@ -2992,7 +2992,7 @@
   {
     "name": "カスミのラプラス 【AR】{072/063}[SV9a]",
     "priceS": 1800,
-    "priceA": 900,
+    "priceA": 750,
     "priceB": 450,
     "priceC": 150,
     "priceD": 15,
@@ -3005,7 +3005,7 @@
   {
     "name": "スリープ 【AR】{086/078}[SV1V]",
     "priceS": 1800,
-    "priceA": 900,
+    "priceA": 750,
     "priceB": 450,
     "priceC": 150,
     "priceD": 15,
@@ -3018,7 +3018,7 @@
   {
     "name": "イシズマイ 【AR】{135/086}[SV11B]",
     "priceS": 1800,
-    "priceA": 900,
+    "priceA": 750,
     "priceB": 450,
     "priceC": 150,
     "priceD": 15,
@@ -3031,7 +3031,7 @@
   {
     "name": "ゾロアーク 【AR】{141/086}[SV11W]",
     "priceS": 1800,
-    "priceA": 900,
+    "priceA": 750,
     "priceB": 450,
     "priceC": 150,
     "priceD": 15,
@@ -3044,7 +3044,7 @@
   {
     "name": "カビゴン 【AR】{181/165}[SV2a]",
     "priceS": 1800,
-    "priceA": 900,
+    "priceA": 750,
     "priceB": 450,
     "priceC": 150,
     "priceD": 15,
@@ -3057,7 +3057,7 @@
   {
     "name": "イッカネズミ 【AR】{081/071}[SV2D]",
     "priceS": 1800,
-    "priceA": 900,
+    "priceA": 750,
     "priceB": 450,
     "priceC": 150,
     "priceD": 15,
@@ -3239,7 +3239,7 @@
   {
     "name": "シビシラス 【AR】{117/086}[SV11B]",
     "priceS": 1600,
-    "priceA": 840,
+    "priceA": 700,
     "priceB": 420,
     "priceC": 140,
     "priceD": 14,
@@ -3382,7 +3382,7 @@
   {
     "name": "フシギダネ 【AR】{166/165}[SV2a]",
     "priceS": 1500,
-    "priceA": 780,
+    "priceA": 650,
     "priceB": 390,
     "priceC": 130,
     "priceD": 13,
@@ -3395,7 +3395,7 @@
   {
     "name": "ツタージャ 【AR】{087/086}[SV11B]",
     "priceS": 1500,
-    "priceA": 780,
+    "priceA": 650,
     "priceB": 390,
     "priceC": 130,
     "priceD": 13,
@@ -3408,7 +3408,7 @@
   {
     "name": "ウルガモス 【AR】{104/086}[SV11B]",
     "priceS": 1500,
-    "priceA": 780,
+    "priceA": 650,
     "priceB": 390,
     "priceC": 130,
     "priceD": 13,
@@ -3421,7 +3421,7 @@
   {
     "name": "マイナン 【AR】{066/062}[SV3a]",
     "priceS": 1500,
-    "priceA": 780,
+    "priceA": 650,
     "priceB": 390,
     "priceC": 130,
     "priceD": 13,
@@ -3434,7 +3434,7 @@
   {
     "name": "バチュル 【AR】{113/086}[SV11W]",
     "priceS": 1500,
-    "priceA": 780,
+    "priceA": 650,
     "priceB": 390,
     "priceC": 130,
     "priceD": 13,
@@ -3447,7 +3447,7 @@
   {
     "name": "ラティオス 【AR】{070/064}[SV7a]",
     "priceS": 1500,
-    "priceA": 780,
+    "priceA": 650,
     "priceB": 390,
     "priceC": 130,
     "priceD": 13,
@@ -3460,7 +3460,7 @@
   {
     "name": "タブンネ 【AR】{156/086}[SV11B]",
     "priceS": 1500,
-    "priceA": 780,
+    "priceA": 650,
     "priceB": 390,
     "priceC": 130,
     "priceD": 13,
@@ -3473,7 +3473,7 @@
   {
     "name": "チラチーノ 【AR】{158/086}[SV11B]",
     "priceS": 1500,
-    "priceA": 780,
+    "priceA": 650,
     "priceB": 390,
     "priceC": 130,
     "priceD": 13,
@@ -3486,7 +3486,7 @@
   {
     "name": "パラス 【AR】{207/172}[S12a]",
     "priceS": 1500,
-    "priceA": 780,
+    "priceA": 650,
     "priceB": 390,
     "priceC": 130,
     "priceD": 13,
@@ -3499,7 +3499,7 @@
   {
     "name": "メリープ 【AR】{209/172}[S12a]",
     "priceS": 1500,
-    "priceA": 780,
+    "priceA": 650,
     "priceB": 390,
     "priceC": 130,
     "priceD": 13,
@@ -3707,7 +3707,7 @@
   {
     "name": "ヒビキのバクフーン 【AR】{070/063}[SV9a]",
     "priceS": 1400,
-    "priceA": 720,
+    "priceA": 600,
     "priceB": 360,
     "priceC": 120,
     "priceD": 12,
@@ -3720,7 +3720,7 @@
   {
     "name": "リザード 【AR】{169/165}[SV2a]",
     "priceS": 1400,
-    "priceA": 720,
+    "priceA": 600,
     "priceB": 360,
     "priceC": 120,
     "priceD": 12,
@@ -3733,7 +3733,7 @@
   {
     "name": "ヒトモシ 【AR】{100/086}[SV11B]",
     "priceS": 1400,
-    "priceA": 720,
+    "priceA": 600,
     "priceB": 360,
     "priceC": 120,
     "priceD": 12,
@@ -3746,7 +3746,7 @@
   {
     "name": "プラスル 【AR】{065/062}[SV3a]",
     "priceS": 1400,
-    "priceA": 720,
+    "priceA": 600,
     "priceB": 360,
     "priceC": 120,
     "priceD": 12,
@@ -3759,7 +3759,7 @@
   {
     "name": "ヨーテリー 【AR】{153/086}[SV11W]",
     "priceS": 1400,
-    "priceA": 720,
+    "priceA": 600,
     "priceB": 360,
     "priceC": 120,
     "priceD": 12,
@@ -3772,7 +3772,7 @@
   {
     "name": "マメパト 【AR】{153/086}[SV11B]",
     "priceS": 1400,
-    "priceA": 720,
+    "priceA": 600,
     "priceB": 360,
     "priceC": 120,
     "priceD": 12,
@@ -3785,7 +3785,7 @@
   {
     "name": "ビッパ 【AR】{204/172}[S12a]",
     "priceS": 1400,
-    "priceA": 720,
+    "priceA": 600,
     "priceB": 360,
     "priceC": 120,
     "priceD": 12,
@@ -3850,7 +3850,7 @@
   {
     "name": "チュリネ 【AR】{091/086}[SV11B]",
     "priceS": 1300,
-    "priceA": 660,
+    "priceA": 550,
     "priceB": 330,
     "priceC": 110,
     "priceD": 11,
@@ -3863,7 +3863,7 @@
   {
     "name": "ニャオハ 【AR】{075/073}[SV1a]",
     "priceS": 1300,
-    "priceA": 660,
+    "priceA": 550,
     "priceB": 330,
     "priceC": 110,
     "priceD": 11,
@@ -3876,7 +3876,7 @@
   {
     "name": "ランプラー 【AR】{101/086}[SV11B]",
     "priceS": 1300,
-    "priceA": 660,
+    "priceA": 550,
     "priceB": 330,
     "priceC": 110,
     "priceD": 11,
@@ -3889,7 +3889,7 @@
   {
     "name": "ダイケンキ 【AR】{104/086}[SV11W]",
     "priceS": 1300,
-    "priceA": 660,
+    "priceA": 550,
     "priceB": 330,
     "priceC": 110,
     "priceD": 11,
@@ -3902,7 +3902,7 @@
   {
     "name": "ゴチム 【AR】{121/086}[SV11W]",
     "priceS": 1300,
-    "priceA": 660,
+    "priceA": 550,
     "priceB": 330,
     "priceC": 110,
     "priceD": 11,
@@ -4123,7 +4123,7 @@
   {
     "name": "ジャノビー 【AR】{088/086}[SV11B]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4136,7 +4136,7 @@
   {
     "name": "シキジカ 【AR】{091/086}[SV11W]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4149,7 +4149,7 @@
   {
     "name": "シキジカ 【AR】{073/071}[SV5M]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4162,7 +4162,7 @@
   {
     "name": "メブキジカ 【AR】{074/071}[SV5M]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4175,7 +4175,7 @@
   {
     "name": "キュウコン 【AR】{110/108}[SV3]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4188,7 +4188,7 @@
   {
     "name": "カメール 【AR】{171/165}[SV2a]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4201,7 +4201,7 @@
   {
     "name": "マリル 【AR】{073/071}[SV2P]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4214,7 +4214,7 @@
   {
     "name": "ライチュウ 【AR】{074/071}[SV2D]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4227,7 +4227,7 @@
   {
     "name": "プルリル 【AR】{124/086}[SV11W]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4240,7 +4240,7 @@
   {
     "name": "リオル 【AR】{086/078}[SV1S]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4253,7 +4253,7 @@
   {
     "name": "モルペコ 【AR】{076/066}[SV4K]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4266,7 +4266,7 @@
   {
     "name": "キバゴ 【AR】{150/086}[SV11B]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4279,7 +4279,7 @@
   {
     "name": "オノノクス 【AR】{152/086}[SV11B]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4292,7 +4292,7 @@
   {
     "name": "チラーミィ 【AR】{157/086}[SV11B]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4305,7 +4305,7 @@
   {
     "name": "チルット 【AR】{202/172}[S12a]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4318,7 +4318,7 @@
   {
     "name": "ヨマワル 【AR】{203/172}[S12a]",
     "priceS": 1200,
-    "priceA": 600,
+    "priceA": 500,
     "priceB": 300,
     "priceC": 100,
     "priceD": 10,
@@ -4578,7 +4578,7 @@
   {
     "name": "フシギソウ 【AR】{167/165}[SV2a]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4591,7 +4591,7 @@
   {
     "name": "クルミル 【AR】{087/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4604,7 +4604,7 @@
   {
     "name": "カブルモ 【AR】{094/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4617,7 +4617,7 @@
   {
     "name": "モロバレル 【AR】{096/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4630,7 +4630,7 @@
   {
     "name": "チャオブー 【AR】{097/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4643,7 +4643,7 @@
   {
     "name": "コアルヒー 【AR】{106/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4656,7 +4656,7 @@
   {
     "name": "エモンガ 【AR】{116/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4669,7 +4669,7 @@
   {
     "name": "ピィ 【AR】{113/108}[SV3]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4682,7 +4682,7 @@
   {
     "name": "ラルトス 【AR】{083/078}[SV1S]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4695,7 +4695,7 @@
   {
     "name": "キルリア 【AR】{084/078}[SV1S]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4708,7 +4708,7 @@
   {
     "name": "ムンナ 【AR】{121/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4721,7 +4721,7 @@
   {
     "name": "レパルダス 【AR】{135/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4734,7 +4734,7 @@
   {
     "name": "ワルビアル 【AR】{143/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4747,7 +4747,7 @@
   {
     "name": "ズルッグ 【AR】{136/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4760,7 +4760,7 @@
   {
     "name": "ラティアス 【AR】{195/172}[S12a]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4773,7 +4773,7 @@
   {
     "name": "クリムガン 【AR】{150/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4786,7 +4786,7 @@
   {
     "name": "ロケット団のニャース 【AR】{109/098}[SV10]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -4799,7 +4799,7 @@
   {
     "name": "チラーミィ 【AR】{082/071}[SV5K]",
     "priceS": 1000,
-    "priceA": 540,
+    "priceA": 450,
     "priceB": 270,
     "priceC": 90,
     "priceD": 9,
@@ -5150,7 +5150,7 @@
   {
     "name": "ヤナップ 【AR】{089/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5163,7 +5163,7 @@
   {
     "name": "クルマユ 【AR】{088/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5176,7 +5176,7 @@
   {
     "name": "メブキジカ 【AR】{092/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5189,7 +5189,7 @@
   {
     "name": "タマゲタケ 【AR】{095/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5202,7 +5202,7 @@
   {
     "name": "バオッキー 【AR】{100/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5215,7 +5215,7 @@
   {
     "name": "ダルマッカ 【AR】{098/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5228,7 +5228,7 @@
   {
     "name": "コダック 【AR】{199/193}[M2a]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5241,7 +5241,7 @@
   {
     "name": "ニョロゾ 【AR】{176/165}[SV2a]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5254,7 +5254,7 @@
   {
     "name": "オムナイト 【AR】{180/165}[SV2a]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5267,7 +5267,7 @@
   {
     "name": "タマンタ 【AR】{064/062}[SV3a]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5280,7 +5280,7 @@
   {
     "name": "フタチマル 【AR】{103/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5293,7 +5293,7 @@
   {
     "name": "プロトーガ 【AR】{110/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5306,7 +5306,7 @@
   {
     "name": "バニプッチ 【AR】{108/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5319,7 +5319,7 @@
   {
     "name": "バイバニラ 【AR】{110/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5332,7 +5332,7 @@
   {
     "name": "クマシュン 【AR】{113/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5345,7 +5345,7 @@
   {
     "name": "ゴチミル 【AR】{122/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5358,7 +5358,7 @@
   {
     "name": "ダブラン 【AR】{124/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5371,7 +5371,7 @@
   {
     "name": "メテノ 【AR】{070/062}[SV3a]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5384,7 +5384,7 @@
   {
     "name": "チョロネコ 【AR】{134/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5397,7 +5397,7 @@
   {
     "name": "モノズ 【AR】{142/086}[SV11W]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5410,7 +5410,7 @@
   {
     "name": "イベルタル 【AR】{071/062}[SV3a]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5423,7 +5423,7 @@
   {
     "name": "コバルオン 【AR】{149/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5436,7 +5436,7 @@
   {
     "name": "オノンド 【AR】{151/086}[SV11B]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5449,7 +5449,7 @@
   {
     "name": "チルット 【AR】{076/066}[SV4M]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5462,7 +5462,7 @@
   {
     "name": "ポチエナ 【AR】{208/172}[S12a]",
     "priceS": 1000,
-    "priceA": 480,
+    "priceA": 400,
     "priceB": 240,
     "priceC": 80,
     "priceD": 8,
@@ -5618,7 +5618,7 @@
   {
     "name": "Nのレシラム 【AR】{109/100}[SV9]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5631,7 +5631,7 @@
   {
     "name": "フリーザー 【AR】{102/100}[SV9]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5644,7 +5644,7 @@
   {
     "name": "シロナのロズレイド 【AR】{065/063}[SV9a]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5657,7 +5657,7 @@
   {
     "name": "キャタピー 【AR】{172/165}[SV2a]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5670,7 +5670,7 @@
   {
     "name": "ビリジオン 【AR】{095/086}[SV11W]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5683,7 +5683,7 @@
   {
     "name": "ヘルガー 【AR】{066/064}[SV6a]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5696,7 +5696,7 @@
   {
     "name": "エンブオー 【AR】{098/086}[SV11W]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5709,7 +5709,7 @@
   {
     "name": "メラルバ 【AR】{103/086}[SV11B]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5722,7 +5722,7 @@
   {
     "name": "ニャビー 【AR】{075/071}[SV5M]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5735,7 +5735,7 @@
   {
     "name": "ガマガル 【AR】{108/086}[SV11B]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5748,7 +5748,7 @@
   {
     "name": "スワンナ 【AR】{107/086}[SV11W]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5761,7 +5761,7 @@
   {
     "name": "バニリッチ 【AR】{109/086}[SV11W]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5774,7 +5774,7 @@
   {
     "name": "デオキシス 【AR】{185/172}[S12a]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5787,7 +5787,7 @@
   {
     "name": "ムウマージ 【AR】{083/073}[SV1a]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5800,7 +5800,7 @@
   {
     "name": "シンボラー 【AR】{118/086}[SV11W]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5813,7 +5813,7 @@
   {
     "name": "ガラルファイヤー 【AR】{190/172}[S12a]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5826,7 +5826,7 @@
   {
     "name": "フシデ 【AR】{138/086}[SV11B]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5839,7 +5839,7 @@
   {
     "name": "ペンドラー 【AR】{140/086}[SV11B]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5852,7 +5852,7 @@
   {
     "name": "ズルズキン 【AR】{137/086}[SV11W]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5865,7 +5865,7 @@
   {
     "name": "ヤブクロン 【AR】{138/086}[SV11W]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5878,7 +5878,7 @@
   {
     "name": "ペルシアン 【AR】{075/064}[SV6a]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5891,7 +5891,7 @@
   {
     "name": "ハーデリア 【AR】{154/086}[SV11W]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -5904,7 +5904,7 @@
   {
     "name": "チラチーノ 【AR】{083/071}[SV5K]",
     "priceS": 850,
-    "priceA": 420,
+    "priceA": 350,
     "priceB": 210,
     "priceC": 70,
     "priceD": 7,
@@ -6047,7 +6047,7 @@
   {
     "name": "クサイハナ 【AR】{109/108}[SV3]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6060,7 +6060,7 @@
   {
     "name": "ハハコモリ 【AR】{089/086}[SV11W]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6073,7 +6073,7 @@
   {
     "name": "ホゲータ 【AR】{078/073}[SV1a]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6086,7 +6086,7 @@
   {
     "name": "ヒヤップ 【AR】{105/086}[SV11B]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6099,7 +6099,7 @@
   {
     "name": "オタマロ 【AR】{107/086}[SV11B]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6112,7 +6112,7 @@
   {
     "name": "レアコイル 【AR】{112/106}[SV8]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6125,7 +6125,7 @@
   {
     "name": "シビルドン 【AR】{119/086}[SV11B]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6138,7 +6138,7 @@
   {
     "name": "ピッピ 【AR】{086/080}[M3]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6151,7 +6151,7 @@
   {
     "name": "ムシャーナ 【AR】{122/086}[SV11B]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6164,7 +6164,7 @@
   {
     "name": "リグレー 【AR】{126/086}[SV11B]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6177,7 +6177,7 @@
   {
     "name": "パピモッチ 【AR】{085/078}[SV1S]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6190,7 +6190,7 @@
   {
     "name": "ドッコラー 【AR】{131/086}[SV11B]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6203,7 +6203,7 @@
   {
     "name": "ローブシン 【AR】{133/086}[SV11B]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6216,7 +6216,7 @@
   {
     "name": "コジョフー 【AR】{131/086}[SV11W]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6229,7 +6229,7 @@
   {
     "name": "バンギラス 【AR】{079/071}[SV2D]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6242,7 +6242,7 @@
   {
     "name": "ホイーガ 【AR】{139/086}[SV11B]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6255,7 +6255,7 @@
   {
     "name": "ハガネール 【AR】{074/066}[SV4M]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6268,7 +6268,7 @@
   {
     "name": "メタグロス 【AR】{080/071}[SV5M]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6281,7 +6281,7 @@
   {
     "name": "キリキザン 【AR】{148/086}[SV11B]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6294,7 +6294,7 @@
   {
     "name": "ムックル 【AR】{090/078}[SV1S]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6307,7 +6307,7 @@
   {
     "name": "ムーランド 【AR】{155/086}[SV11W]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6320,7 +6320,7 @@
   {
     "name": "ケンホロウ 【AR】{155/086}[SV11B]",
     "priceS": 750,
-    "priceA": 360,
+    "priceA": 300,
     "priceB": 180,
     "priceC": 60,
     "priceD": 6,
@@ -6593,7 +6593,7 @@
   {
     "name": "リーリエのアブリボン 【AR】{105/100}[SV9]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6606,7 +6606,7 @@
   {
     "name": "モンジャラ 【AR】{178/165}[SV2a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6619,7 +6619,7 @@
   {
     "name": "ヤナッキー 【AR】{090/086}[SV11B]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6632,7 +6632,7 @@
   {
     "name": "アギルダー 【AR】{094/086}[SV11W]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6645,7 +6645,7 @@
   {
     "name": "バオップ 【AR】{099/086}[SV11W]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6658,7 +6658,7 @@
   {
     "name": "ヒヒダルマ 【AR】{099/086}[SV11B]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6671,7 +6671,7 @@
   {
     "name": "タッツー 【AR】{067/064}[SV6a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6684,7 +6684,7 @@
   {
     "name": "ラプラス 【AR】{177/172}[S12a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6697,7 +6697,7 @@
   {
     "name": "バニリッチ 【AR】{070/066}[SV4M]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6710,7 +6710,7 @@
   {
     "name": "フリージオ 【AR】{115/086}[SV11B]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6723,7 +6723,7 @@
   {
     "name": "ウミトリオ 【AR】{338/190}[SV4a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6736,7 +6736,7 @@
   {
     "name": "ヘイラッシャ 【AR】{082/078}[SV1S]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6749,7 +6749,7 @@
   {
     "name": "セグレイブ 【AR】{077/071}[SV2P]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6762,7 +6762,7 @@
   {
     "name": "シママ 【AR】{111/086}[SV11W]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6775,7 +6775,7 @@
   {
     "name": "バチュル 【AR】{067/062}[SV3a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6788,7 +6788,7 @@
   {
     "name": "ボルトロス 【AR】{120/086}[SV11B]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6801,7 +6801,7 @@
   {
     "name": "バリヤード 【AR】{179/165}[SV2a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6814,7 +6814,7 @@
   {
     "name": "クレセリア 【AR】{071/064}[SV6a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6827,7 +6827,7 @@
   {
     "name": "ゴビット 【AR】{128/086}[SV11B]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6840,7 +6840,7 @@
   {
     "name": "ヒスイガーディ 【AR】{075/066}[SV5a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6853,7 +6853,7 @@
   {
     "name": "ゴーリキー 【AR】{177/165}[SV2a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6866,7 +6866,7 @@
   {
     "name": "ギガイアス 【AR】{127/086}[SV11W]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6879,7 +6879,7 @@
   {
     "name": "ナゲキ 【AR】{134/086}[SV11B]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6892,7 +6892,7 @@
   {
     "name": "ダゲキ 【AR】{128/086}[SV11W]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6905,7 +6905,7 @@
   {
     "name": "イワパレス 【AR】{136/086}[SV11B]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6918,7 +6918,7 @@
   {
     "name": "ニドキング 【AR】{174/165}[SV2a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6931,7 +6931,7 @@
   {
     "name": "メグロコ 【AR】{141/086}[SV11B]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6944,7 +6944,7 @@
   {
     "name": "ジヘッド 【AR】{143/086}[SV11W]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6957,7 +6957,7 @@
   {
     "name": "ナットレイ 【AR】{145/086}[SV11W]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6970,7 +6970,7 @@
   {
     "name": "ギギアル 【AR】{147/086}[SV11W]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6983,7 +6983,7 @@
   {
     "name": "ハクリュー 【AR】{182/165}[SV2a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -6996,7 +6996,7 @@
   {
     "name": "ラッキー 【AR】{113/101}[SV6]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -7009,7 +7009,7 @@
   {
     "name": "ミネズミ 【AR】{151/086}[SV11W]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -7048,7 +7048,7 @@
   {
     "name": "ゴーリキー 未開封【AR】{177/165}[SV2a]",
     "priceS": 600,
-    "priceA": 300,
+    "priceA": 250,
     "priceB": 150,
     "priceC": 50,
     "priceD": 5,
@@ -7061,7 +7061,7 @@
   {
     "name": "ガントル 【AR】{126/086}[SV11W]",
     "priceS": 550,
-    "priceA": 270,
+    "priceA": 220,
     "priceB": 130,
     "priceC": 45,
     "priceD": 4,
@@ -7256,7 +7256,7 @@
   {
     "name": "フシギダネ 【AR】{064/063}[M1L]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7269,7 +7269,7 @@
   {
     "name": "フシギソウ 【AR】{065/063}[M1L]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7282,7 +7282,7 @@
   {
     "name": "ハヤシガメ 【AR】{072/071}[SV5K]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7295,7 +7295,7 @@
   {
     "name": "シェイミ 【AR】{066/063}[SV9a]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7308,7 +7308,7 @@
   {
     "name": "マラカッチ 【AR】{093/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7321,7 +7321,7 @@
   {
     "name": "ニャローテ 【AR】{076/073}[SV1a]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7334,7 +7334,7 @@
   {
     "name": "ギャロップ 【AR】{069/063}[SV9a]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7347,7 +7347,7 @@
   {
     "name": "バシャーモ 【AR】{101/098}[SV10]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7360,7 +7360,7 @@
   {
     "name": "ポワルンたいようのすがた 【AR】{067/064}[SV7a]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7373,7 +7373,7 @@
   {
     "name": "クイタラン 【AR】{101/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7386,7 +7386,7 @@
   {
     "name": "グレンアルマ 【AR】{080/078}[SV1S]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7399,7 +7399,7 @@
   {
     "name": "テツノドクガ 【AR】{069/066}[SV4M]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7412,7 +7412,7 @@
   {
     "name": "カイオーガ 【AR】{080/076}[M6]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7425,7 +7425,7 @@
   {
     "name": "ヒヤッキー 【AR】{106/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7438,7 +7438,7 @@
   {
     "name": "バスラオ 【AR】{105/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7451,7 +7451,7 @@
   {
     "name": "アバゴーラ 【AR】{111/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7464,7 +7464,7 @@
   {
     "name": "ママンボウ 【AR】{112/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7477,7 +7477,7 @@
   {
     "name": "ウミディグダ 【AR】{081/078}[SV1S]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7490,7 +7490,7 @@
   {
     "name": "セビエ 【AR】{075/071}[SV2P]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7503,7 +7503,7 @@
   {
     "name": "デンチュラ 【AR】{114/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7516,7 +7516,7 @@
   {
     "name": "マッギョ 【AR】{115/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7529,7 +7529,7 @@
   {
     "name": "パモ 【AR】{340/190}[SV4a]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7542,7 +7542,7 @@
   {
     "name": "コロモリ 【AR】{116/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7555,7 +7555,7 @@
   {
     "name": "ココロモリ 【AR】{117/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7568,7 +7568,7 @@
   {
     "name": "デスマス 【AR】{119/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7581,7 +7581,7 @@
   {
     "name": "デスカーン 【AR】{120/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7594,7 +7594,7 @@
   {
     "name": "ゴチルゼル 【AR】{123/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7607,7 +7607,7 @@
   {
     "name": "ランクルス 【AR】{125/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7620,7 +7620,7 @@
   {
     "name": "オーベム 【AR】{127/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7633,7 +7633,7 @@
   {
     "name": "ゴルーグ 【AR】{129/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7646,7 +7646,7 @@
   {
     "name": "グラードン 【AR】{084/076}[M6]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7659,7 +7659,7 @@
   {
     "name": "ダンゴロ 【AR】{125/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7672,7 +7672,7 @@
   {
     "name": "ドテッコツ 【AR】{132/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7685,7 +7685,7 @@
   {
     "name": "アーケン 【AR】{129/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7698,7 +7698,7 @@
   {
     "name": "コジョンド 【AR】{132/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7711,7 +7711,7 @@
   {
     "name": "テラキオン 【AR】{133/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7724,7 +7724,7 @@
   {
     "name": "ランドロス 【AR】{137/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7737,7 +7737,7 @@
   {
     "name": "パルデアウパー 【AR】{085/073}[SV1a]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7750,7 +7750,7 @@
   {
     "name": "ワルビル 【AR】{142/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7763,7 +7763,7 @@
   {
     "name": "ダストダス 【AR】{139/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7776,7 +7776,7 @@
   {
     "name": "ゾロア 【AR】{072/064}[SV6a]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7789,7 +7789,7 @@
   {
     "name": "バルチャイ 【AR】{144/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7802,7 +7802,7 @@
   {
     "name": "バルジーナ 【AR】{145/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7815,7 +7815,7 @@
   {
     "name": "ドドゲザン 【AR】{089/078}[SV1S]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7828,7 +7828,7 @@
   {
     "name": "シュバルゴ 【AR】{146/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7841,7 +7841,7 @@
   {
     "name": "テッシード 【AR】{144/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7854,7 +7854,7 @@
   {
     "name": "ギアル 【AR】{146/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7867,7 +7867,7 @@
   {
     "name": "コマタナ 【AR】{147/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7880,7 +7880,7 @@
   {
     "name": "アイアント 【AR】{149/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7893,7 +7893,7 @@
   {
     "name": "シャリタツ 【AR】{112/101}[SV6]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7906,7 +7906,7 @@
   {
     "name": "ベロリンガ 【AR】{082/071}[SV5M]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7919,7 +7919,7 @@
   {
     "name": "エイパム 【AR】{075/066}[SV4M]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7932,7 +7932,7 @@
   {
     "name": "ペラップ 【AR】{081/071}[SV5K]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7945,7 +7945,7 @@
   {
     "name": "ミルホッグ 【AR】{152/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7958,7 +7958,7 @@
   {
     "name": "ハトーボー 【AR】{154/086}[SV11B]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7971,7 +7971,7 @@
   {
     "name": "ウォーグル 【AR】{157/086}[SV11W]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7984,7 +7984,7 @@
   {
     "name": "ココガラ 【AR】{082/071}[SV2P]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -7997,7 +7997,7 @@
   {
     "name": "モトトカゲ 【AR】{074/062}[SV3a]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -8010,7 +8010,7 @@
   {
     "name": "ノココッチ 【AR】{083/071}[SV2P]",
     "priceS": 500,
-    "priceA": 240,
+    "priceA": 200,
     "priceB": 120,
     "priceC": 40,
     "priceD": 4,
@@ -8101,7 +8101,7 @@
   {
     "name": "Nのゾロア 【AR】{108/100}[SV9]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8114,7 +8114,7 @@
   {
     "name": "ホエルオー 【AR】{103/100}[SV9]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8127,7 +8127,7 @@
   {
     "name": "オオタチ 【AR】{110/100}[SV9]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8140,7 +8140,7 @@
   {
     "name": "ヘラクロス 【AR】{072/071}[SV2D]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8153,7 +8153,7 @@
   {
     "name": "モンメン 【AR】{090/086}[SV11W]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8166,7 +8166,7 @@
   {
     "name": "イワパレス 【AR】{067/066}[SV4K]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8179,7 +8179,7 @@
   {
     "name": "チョボマキ 【AR】{093/086}[SV11W]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8192,7 +8192,7 @@
   {
     "name": "オリーニョ 【AR】{079/078}[SV1S]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8205,7 +8205,7 @@
   {
     "name": "アノクサ 【AR】{072/071}[SV2P]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8218,7 +8218,7 @@
   {
     "name": "ロケット団のヘルガー 【AR】{100/098}[SV10]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8231,7 +8231,7 @@
   {
     "name": "ロコン 【AR】{067/063}[M1L]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8244,7 +8244,7 @@
   {
     "name": "ブビィ 【AR】{068/066}[SV4K]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8257,7 +8257,7 @@
   {
     "name": "ゴウカザル 【AR】{070/066}[SV5a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8270,7 +8270,7 @@
   {
     "name": "ブーバーン 【AR】{175/172}[S12a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8283,7 +8283,7 @@
   {
     "name": "バクガメス 【AR】{105/102}[SV7]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8296,7 +8296,7 @@
   {
     "name": "ソウブレイズ 【AR】{109/106}[SV8]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8309,7 +8309,7 @@
   {
     "name": "ヒンバス 【AR】{110/106}[SV8]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8322,7 +8322,7 @@
   {
     "name": "タマザラシ 【AR】{111/106}[SV8]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8335,7 +8335,7 @@
   {
     "name": "ツンベアー 【AR】{114/086}[SV11B]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8348,7 +8348,7 @@
   {
     "name": "ケルディオ 【AR】{179/172}[S12a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8361,7 +8361,7 @@
   {
     "name": "ユキハミ 【AR】{073/071}[SV5K]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8374,7 +8374,7 @@
   {
     "name": "コオリッポ 【AR】{074/071}[SV2P]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8387,7 +8387,7 @@
   {
     "name": "ミガルーサ 【AR】{070/066}[SV4K]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8400,7 +8400,7 @@
   {
     "name": "ラクライ 【AR】{073/063}[SV9a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8413,7 +8413,7 @@
   {
     "name": "シママ 【AR】{072/066}[SV4M]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8426,7 +8426,7 @@
   {
     "name": "ゼブライカ 【AR】{112/086}[SV11W]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8439,7 +8439,7 @@
   {
     "name": "デンヂムシ 【AR】{076/071}[SV5M]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8452,7 +8452,7 @@
   {
     "name": "ゼラオラ 【AR】{109/102}[SV7]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8465,7 +8465,7 @@
   {
     "name": "ヨマワル 【AR】{068/064}[SV6a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8478,7 +8478,7 @@
   {
     "name": "サマヨール 【AR】{069/064}[SV6a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8491,7 +8491,7 @@
   {
     "name": "ゴチミル 【AR】{078/071}[SV2P]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8504,7 +8504,7 @@
   {
     "name": "ランクルス 【AR】{075/071}[SV5K]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8517,7 +8517,7 @@
   {
     "name": "マホミル 【AR】{110/102}[SV7]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8530,7 +8530,7 @@
   {
     "name": "ナカヌチャン 【AR】{077/071}[SV2D]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8543,7 +8543,7 @@
   {
     "name": "ハバタクカミ 【AR】{076/071}[SV5K]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8556,7 +8556,7 @@
   {
     "name": "ウソッキー 【AR】{080/071}[SV2P]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8569,7 +8569,7 @@
   {
     "name": "モグリュー 【AR】{130/086}[SV11B]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8582,7 +8582,7 @@
   {
     "name": "ドリュウズ 【AR】{079/071}[SV5M]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8595,7 +8595,7 @@
   {
     "name": "アーケオス 【AR】{130/086}[SV11W]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8608,7 +8608,7 @@
   {
     "name": "コジョンド 【AR】{072/066}[SV4K]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8621,7 +8621,7 @@
   {
     "name": "タタッコ 【AR】{072/064}[SV7a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8634,7 +8634,7 @@
   {
     "name": "キョジオーン 【AR】{073/066}[SV4K]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8647,7 +8647,7 @@
   {
     "name": "ロケット団のヤミカラス 【AR】{106/098}[SV10]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8660,7 +8660,7 @@
   {
     "name": "アーボック 【AR】{079/071}[SV5K]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8673,7 +8673,7 @@
   {
     "name": "アラブルタケ 【AR】{077/066}[SV4K]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8686,7 +8686,7 @@
   {
     "name": "ギギギアル 【AR】{148/086}[SV11W]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8699,7 +8699,7 @@
   {
     "name": "ギルガルド 【AR】{073/062}[SV3a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8712,7 +8712,7 @@
   {
     "name": "Nのゼクロム 【AR】{210/193}[M2a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8725,7 +8725,7 @@
   {
     "name": "カクレオン 【AR】{088/076}[M6]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8738,7 +8738,7 @@
   {
     "name": "ポッポ 【AR】{118/108}[SV3]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8751,7 +8751,7 @@
   {
     "name": "ガルーラ 【AR】{110/098}[SV10]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8764,7 +8764,7 @@
   {
     "name": "メタモン 【AR】{197/172}[S12a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8777,7 +8777,7 @@
   {
     "name": "ノコッチ 【AR】{198/172}[S12a]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8790,7 +8790,7 @@
   {
     "name": "ワシボン 【AR】{156/086}[SV11W]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8803,7 +8803,7 @@
   {
     "name": "トルネロス 【AR】{158/086}[SV11W]",
     "priceS": 400,
-    "priceA": 180,
+    "priceA": 150,
     "priceB": 90,
     "priceC": 30,
     "priceD": 3,
@@ -8984,8 +8984,8 @@
   },
   {
     "name": "ビビヨン 【AR】{107/106}[SV8]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -8997,8 +8997,8 @@
   },
   {
     "name": "レドームシ 【AR】{067/066}[SV4M]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9010,8 +9010,8 @@
   },
   {
     "name": "リククラゲ 【AR】{068/066}[SV4M]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9023,8 +9023,8 @@
   },
   {
     "name": "コータス 【AR】{069/066}[SV5a]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9036,8 +9036,8 @@
   },
   {
     "name": "ポッチャマ 【AR】{085/080}[M2]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9049,8 +9049,8 @@
   },
   {
     "name": "クエスパトラ 【AR】{073/066}[SV4M]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9062,8 +9062,8 @@
   },
   {
     "name": "ヤドラン 【AR】{087/081}[M5]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9075,8 +9075,8 @@
   },
   {
     "name": "ヨーギラス 【AR】{114/108}[SV3]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9088,8 +9088,8 @@
   },
   {
     "name": "ロケット団のマタドガス 【AR】{105/098}[SV10]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9101,8 +9101,8 @@
   },
   {
     "name": "ダストダス 【AR】{075/066}[SV4K]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9114,8 +9114,8 @@
   },
   {
     "name": "ナットレイ 【AR】{072/062}[SV3a]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9127,8 +9127,8 @@
   },
   {
     "name": "ミミズズ 【AR】{081/071}[SV2P]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9140,8 +9140,8 @@
   },
   {
     "name": "オノンド 【AR】{074/064}[SV6a]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9153,8 +9153,8 @@
   },
   {
     "name": "リキキリン 【AR】{083/071}[SV2D]",
-    "priceS": 230,
-    "priceA": 150,
+    "priceS": 150,
+    "priceA": 120,
     "priceB": 75,
     "priceC": 25,
     "priceD": 2,
@@ -9166,7 +9166,7 @@
   },
   {
     "name": "ポワルン 【CHR】{211/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 150,
     "priceB": 75,
     "priceC": 25,
@@ -9244,8 +9244,8 @@
   },
   {
     "name": "ナンジャモのタイカイデン 【AR】{104/100}[SV9]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9257,8 +9257,8 @@
   },
   {
     "name": "ヒスイビリリダマ 【AR】{173/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9270,8 +9270,8 @@
   },
   {
     "name": "カイロス 【AR】{067/066}[SV5a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9283,8 +9283,8 @@
   },
   {
     "name": "レディアン 【AR】{103/102}[SV7]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9296,8 +9296,8 @@
   },
   {
     "name": "ツボツボ 【AR】{064/063}[M1S]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9309,8 +9309,8 @@
   },
   {
     "name": "リリーラ 【AR】{104/102}[SV7]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9322,8 +9322,8 @@
   },
   {
     "name": "コロトック 【AR】{174/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9335,8 +9335,8 @@
   },
   {
     "name": "カミッチュ 【AR】{103/101}[SV6]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9348,8 +9348,8 @@
   },
   {
     "name": "カミツオロチ 【AR】{068/063}[SV9a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9361,8 +9361,8 @@
   },
   {
     "name": "ガーディ 【AR】{078/076}[M6]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9374,8 +9374,8 @@
   },
   {
     "name": "メラルバ 【AR】{108/106}[SV8]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9387,8 +9387,8 @@
   },
   {
     "name": "カエンジシ 【AR】{077/073}[SV1a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9400,8 +9400,8 @@
   },
   {
     "name": "オドリドリ 【AR】{176/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9413,8 +9413,8 @@
   },
   {
     "name": "アチゲータ 【AR】{079/073}[SV1a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9426,8 +9426,8 @@
   },
   {
     "name": "ユキワラシ 【AR】{063/062}[SV3a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9439,8 +9439,8 @@
   },
   {
     "name": "フィオネ 【AR】{071/066}[SV5a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9452,8 +9452,8 @@
   },
   {
     "name": "マナフィ 【AR】{178/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9465,8 +9465,8 @@
   },
   {
     "name": "ケケンカニ 【AR】{107/102}[SV7]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9478,8 +9478,8 @@
   },
   {
     "name": "ウッウ 【AR】{072/066}[SV5a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9491,8 +9491,8 @@
   },
   {
     "name": "クワッス 【AR】{081/073}[SV1a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9504,8 +9504,8 @@
   },
   {
     "name": "ウェルカモ 【AR】{082/073}[SV1a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9517,8 +9517,8 @@
   },
   {
     "name": "セゴール 【AR】{076/071}[SV2P]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9530,8 +9530,8 @@
   },
   {
     "name": "パチリス 【AR】{084/078}[SV1V]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9543,8 +9543,8 @@
   },
   {
     "name": "エレキブル 【AR】{180/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9556,8 +9556,8 @@
   },
   {
     "name": "シビビール 【AR】{118/086}[SV11B]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9569,8 +9569,8 @@
   },
   {
     "name": "エレザード 【AR】{073/066}[SV5a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9582,8 +9582,8 @@
   },
   {
     "name": "ロケット団のソーナンス 【AR】{103/098}[SV10]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9595,8 +9595,8 @@
   },
   {
     "name": "ガラルフリーザー 【AR】{182/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9608,8 +9608,8 @@
   },
   {
     "name": "ルナトーン 【AR】{184/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9621,8 +9621,8 @@
   },
   {
     "name": "チリーン 【AR】{106/101}[SV6]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9634,8 +9634,8 @@
   },
   {
     "name": "ドーミラー 【AR】{074/071}[SV5K]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9647,8 +9647,8 @@
   },
   {
     "name": "ヨノワール 【AR】{070/064}[SV6a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9660,8 +9660,8 @@
   },
   {
     "name": "エムリット 【AR】{114/106}[SV8]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9673,8 +9673,8 @@
   },
   {
     "name": "アブリー 【AR】{078/071}[SV5M]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9686,8 +9686,8 @@
   },
   {
     "name": "ベラカス 【AR】{079/071}[SV2P]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9699,8 +9699,8 @@
   },
   {
     "name": "カヌチャン 【AR】{076/071}[SV2D]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9712,8 +9712,8 @@
   },
   {
     "name": "ボチ 【AR】{087/078}[SV1V]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9725,8 +9725,8 @@
   },
   {
     "name": "サケブシッポ 【AR】{071/066}[SV4K]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9738,8 +9738,8 @@
   },
   {
     "name": "マシマシラ 【AR】{107/101}[SV6]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9751,8 +9751,8 @@
   },
   {
     "name": "キチキギス 【AR】{108/101}[SV6]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9764,8 +9764,8 @@
   },
   {
     "name": "パルデアケンタロス 【AR】{084/073}[SV1a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9777,8 +9777,8 @@
   },
   {
     "name": "ガラルサンダー 【AR】{188/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9790,8 +9790,8 @@
   },
   {
     "name": "チゴラス 【AR】{089/080}[M3]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9803,8 +9803,8 @@
   },
   {
     "name": "ガケガニ 【AR】{088/078}[SV1S]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9816,8 +9816,8 @@
   },
   {
     "name": "ゴクリン 【AR】{112/102}[SV7]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9829,8 +9829,8 @@
   },
   {
     "name": "アブソル 【AR】{191/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9842,8 +9842,8 @@
   },
   {
     "name": "マフィティフ 【AR】{088/078}[SV1V]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9855,8 +9855,8 @@
   },
   {
     "name": "ハッサム 【AR】{116/108}[SV3]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9868,8 +9868,8 @@
   },
   {
     "name": "エアームド 【AR】{073/064}[SV7a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9881,8 +9881,8 @@
   },
   {
     "name": "ゾウドウ 【AR】{073/064}[SV6a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9894,8 +9894,8 @@
   },
   {
     "name": "チルタリス 【AR】{194/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9907,8 +9907,8 @@
   },
   {
     "name": "ヒスイヌメルゴン 【AR】{196/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9920,8 +9920,8 @@
   },
   {
     "name": "タルップル 【AR】{075/064}[SV7a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9933,8 +9933,8 @@
   },
   {
     "name": "プクリン 【AR】{091/080}[M2]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9946,8 +9946,8 @@
   },
   {
     "name": "ミルタンク 【AR】{199/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9959,8 +9959,8 @@
   },
   {
     "name": "ビーダル 【AR】{200/172}[S12a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9972,8 +9972,8 @@
   },
   {
     "name": "ポリゴンZ 【AR】{077/066}[SV4M]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9985,8 +9985,8 @@
   },
   {
     "name": "キテルグマ 【AR】{076/064}[SV6a]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -9998,8 +9998,8 @@
   },
   {
     "name": "ジジーロン 【AR】{083/071}[SV5M]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -10011,8 +10011,8 @@
   },
   {
     "name": "グルトン 【AR】{120/108}[SV3]",
-    "priceS": 230,
-    "priceA": 120,
+    "priceS": 150,
+    "priceA": 100,
     "priceB": 60,
     "priceC": 20,
     "priceD": 2,
@@ -10024,7 +10024,7 @@
   },
   {
     "name": "ロズレイド 【CHR】{068/067}[S9a]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10037,7 +10037,7 @@
   },
   {
     "name": "シャンデラ 【CHR】{069/067}[S9a]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10050,7 +10050,7 @@
   },
   {
     "name": "ミロカロス 【CHR】{070/068}[S11a]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10063,7 +10063,7 @@
   },
   {
     "name": "モスノウ 【CHR】{192/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10076,7 +10076,7 @@
   },
   {
     "name": "ジュペッタ 【CHR】{197/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10089,7 +10089,7 @@
   },
   {
     "name": "ヨノワール 【CHR】{198/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10102,7 +10102,7 @@
   },
   {
     "name": "マホイップ 【CHR】{201/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10115,7 +10115,7 @@
   },
   {
     "name": "イワンコ 【CHR】{202/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10128,7 +10128,7 @@
   },
   {
     "name": "タイレーツ 【CHR】{204/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10141,7 +10141,7 @@
   },
   {
     "name": "バサギリ 【CHR】{071/067}[S9a]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10154,7 +10154,7 @@
   },
   {
     "name": "アリアドス 【CHR】{205/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10167,7 +10167,7 @@
   },
   {
     "name": "ヘルガー 【CHR】{206/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 120,
     "priceB": 60,
     "priceC": 20,
@@ -10180,8 +10180,8 @@
   },
   {
     "name": "ホップのウールー 【AR】{112/100}[SV9]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10193,8 +10193,8 @@
   },
   {
     "name": "マラカッチ 【AR】{101/100}[SV9]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10206,8 +10206,8 @@
   },
   {
     "name": "ウリムー 【AR】{106/100}[SV9]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10219,8 +10219,8 @@
   },
   {
     "name": "ルガルガン 【AR】{107/100}[SV9]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10232,8 +10232,8 @@
   },
   {
     "name": "オンバット 【AR】{111/100}[SV9]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10245,8 +10245,8 @@
   },
   {
     "name": "アメモース 【AR】{077/076}[M6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10258,8 +10258,8 @@
   },
   {
     "name": "ロケット団のワナイダー 【AR】{099/098}[SV10]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10271,8 +10271,8 @@
   },
   {
     "name": "タマタマ 【AR】{065/064}[SV7a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10284,8 +10284,8 @@
   },
   {
     "name": "ナッシー 【AR】{066/063}[M1L]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10297,8 +10297,8 @@
   },
   {
     "name": "キマワリ 【AR】{102/101}[SV6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10310,8 +10310,8 @@
   },
   {
     "name": "ヤンヤンマ 【AR】{064/063}[SV9a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10323,8 +10323,8 @@
   },
   {
     "name": "アゲハント 【AR】{194/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10336,8 +10336,8 @@
   },
   {
     "name": "ドクケイル 【AR】{195/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10349,8 +10349,8 @@
   },
   {
     "name": "ルンパッパ 【AR】{081/080}[M2]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10362,8 +10362,8 @@
   },
   {
     "name": "ダーテング 【AR】{072/071}[SV5M]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10375,8 +10375,8 @@
   },
   {
     "name": "テッカニン 【AR】{065/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10388,8 +10388,8 @@
   },
   {
     "name": "トロピウス 【AR】{074/073}[SV1a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10401,8 +10401,8 @@
   },
   {
     "name": "スボミー 【AR】{196/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10414,8 +10414,8 @@
   },
   {
     "name": "イワパレス 【AR】{067/063}[SV9a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10427,8 +10427,8 @@
   },
   {
     "name": "ハリマロン 【AR】{084/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10440,8 +10440,8 @@
   },
   {
     "name": "コフーライ 【AR】{081/080}[M3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10453,8 +10453,8 @@
   },
   {
     "name": "モクロー 【AR】{082/080}[M3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10466,8 +10466,8 @@
   },
   {
     "name": "マシェード 【AR】{066/064}[SV7a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10479,8 +10479,8 @@
   },
   {
     "name": "カプ・ブルル 【AR】{065/064}[SV6a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10492,8 +10492,8 @@
   },
   {
     "name": "タマンチュラ 【AR】{079/078}[SV1V]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10505,8 +10505,8 @@
   },
   {
     "name": "マメバッタ 【AR】{082/080}[M2]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10518,8 +10518,8 @@
   },
   {
     "name": "ノノクラゲ 【AR】{080/078}[SV1V]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10531,8 +10531,8 @@
   },
   {
     "name": "スコヴィラン 【AR】{081/078}[SV1V]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10544,8 +10544,8 @@
   },
   {
     "name": "チャデス 【AR】{068/066}[SV5a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10557,8 +10557,8 @@
   },
   {
     "name": "カリキリ 【AR】{082/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10570,8 +10570,8 @@
   },
   {
     "name": "ヒビキのマグカルゴ 【AR】{197/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10583,8 +10583,8 @@
   },
   {
     "name": "ドンメル 【AR】{198/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10596,8 +10596,8 @@
   },
   {
     "name": "フォッコ 【AR】{085/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10609,8 +10609,8 @@
   },
   {
     "name": "ヒノヤコマ 【AR】{073/071}[SV2D]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10622,8 +10622,8 @@
   },
   {
     "name": "ファイアロー 【AR】{083/080}[M3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10635,8 +10635,8 @@
   },
   {
     "name": "シシコ 【AR】{066/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10648,8 +10648,8 @@
   },
   {
     "name": "ラビフット 【AR】{106/102}[SV7]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10661,8 +10661,8 @@
   },
   {
     "name": "カルボウ 【AR】{083/080}[M2]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10674,8 +10674,8 @@
   },
   {
     "name": "グレンアルマ 【AR】{083/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10687,8 +10687,8 @@
   },
   {
     "name": "ブーバーン 【AR】{079/076}[M6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10700,8 +10700,8 @@
   },
   {
     "name": "ジュゴン 【AR】{084/080}[M2]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10713,8 +10713,8 @@
   },
   {
     "name": "ユキワラシ 【AR】{200/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10726,8 +10726,8 @@
   },
   {
     "name": "パールル 【AR】{102/098}[SV10]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10739,8 +10739,8 @@
   },
   {
     "name": "ユキカブリ 【AR】{067/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10752,8 +10752,8 @@
   },
   {
     "name": "ユキメノコ 【AR】{104/101}[SV6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10765,8 +10765,8 @@
   },
   {
     "name": "ケロマツ 【AR】{086/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10778,8 +10778,8 @@
   },
   {
     "name": "ゲコガシラ 【AR】{087/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10791,8 +10791,8 @@
   },
   {
     "name": "ウデッポウ 【AR】{083/078}[SV1V]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10804,8 +10804,8 @@
   },
   {
     "name": "ブロスター 【AR】{068/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10817,8 +10817,8 @@
   },
   {
     "name": "アマルルガ 【AR】{084/080}[M3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10830,8 +10830,8 @@
   },
   {
     "name": "コソクムシ 【AR】{069/066}[SV4K]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10843,8 +10843,8 @@
   },
   {
     "name": "ハギギシリ 【AR】{068/064}[SV7a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10856,8 +10856,8 @@
   },
   {
     "name": "インテレオン 【AR】{069/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10869,8 +10869,8 @@
   },
   {
     "name": "イルカマン 【AR】{111/108}[SV3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10882,8 +10882,8 @@
   },
   {
     "name": "イルカマン 【AR】{339/190}[SV4a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10895,8 +10895,8 @@
   },
   {
     "name": "ハルクジラ 【AR】{069/064}[SV7a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10908,8 +10908,8 @@
   },
   {
     "name": "テツノツツミ 【AR】{071/066}[SV4M]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10921,8 +10921,8 @@
   },
   {
     "name": "トサキント 【AR】{084/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10934,8 +10934,8 @@
   },
   {
     "name": "アシレーヌ 【AR】{085/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10947,8 +10947,8 @@
   },
   {
     "name": "エレキブル 【AR】{081/076}[M6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10960,8 +10960,8 @@
   },
   {
     "name": "バチンウニ 【AR】{082/076}[M6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10973,8 +10973,8 @@
   },
   {
     "name": "デンリュウ 【AR】{088/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10986,8 +10986,8 @@
   },
   {
     "name": "ロトム 【AR】{074/063}[SV9a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -10999,8 +10999,8 @@
   },
   {
     "name": "バチュル 【AR】{108/102}[SV7]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11012,8 +11012,8 @@
   },
   {
     "name": "マッギョ 【AR】{113/106}[SV8]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11025,8 +11025,8 @@
   },
   {
     "name": "エリキテル 【AR】{070/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11038,8 +11038,8 @@
   },
   {
     "name": "エレザード 【AR】{201/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11051,8 +11051,8 @@
   },
   {
     "name": "デデンネ 【AR】{085/080}[M3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11064,8 +11064,8 @@
   },
   {
     "name": "ワンパチ 【AR】{086/080}[M2]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11077,8 +11077,8 @@
   },
   {
     "name": "ストリンダー 【AR】{181/172}[S12a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11090,8 +11090,8 @@
   },
   {
     "name": "パーモット 【AR】{085/078}[SV1V]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11103,8 +11103,8 @@
   },
   {
     "name": "ハラバリー 【AR】{112/108}[SV3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11116,8 +11116,8 @@
   },
   {
     "name": "カイデン 【AR】{105/101}[SV6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11129,8 +11129,8 @@
   },
   {
     "name": "テツノイバラ 【AR】{077/071}[SV5M]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11142,8 +11142,8 @@
   },
   {
     "name": "ライボルト 【AR】{086/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11155,8 +11155,8 @@
   },
   {
     "name": "ラブトロス 【AR】{083/076}[M6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11168,8 +11168,8 @@
   },
   {
     "name": "ロケット団のイオルブ 【AR】{104/098}[SV10]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11181,8 +11181,8 @@
   },
   {
     "name": "ロケット団のミミッキュ 【AR】{205/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11194,8 +11194,8 @@
   },
   {
     "name": "ホップのオーロット 【AR】{204/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11207,8 +11207,8 @@
   },
   {
     "name": "フーディン 【AR】{071/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11220,8 +11220,8 @@
   },
   {
     "name": "ムウマ 【AR】{202/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11233,8 +11233,8 @@
   },
   {
     "name": "ヌケニン 【AR】{072/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11246,8 +11246,8 @@
   },
   {
     "name": "トゲキッス 【AR】{203/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11259,8 +11259,8 @@
   },
   {
     "name": "ニャスパー 【AR】{087/080}[M3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11272,8 +11272,8 @@
   },
   {
     "name": "ゼルネアス 【AR】{089/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11285,8 +11285,8 @@
   },
   {
     "name": "ディアンシー 【AR】{186/172}[S12a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11298,8 +11298,8 @@
   },
   {
     "name": "キュワワー 【AR】{187/172}[S12a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11311,8 +11311,8 @@
   },
   {
     "name": "スナバァ 【AR】{075/071}[SV2D]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11324,8 +11324,8 @@
   },
   {
     "name": "ザシアン 【AR】{087/080}[M2]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11337,8 +11337,8 @@
   },
   {
     "name": "ラブトロス 【AR】{074/066}[SV5a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11350,8 +11350,8 @@
   },
   {
     "name": "ハカドッグ 【AR】{073/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11363,8 +11363,8 @@
   },
   {
     "name": "コレクレー 【AR】{068/062}[SV3a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11376,8 +11376,8 @@
   },
   {
     "name": "ダダリン 【AR】{088/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11389,8 +11389,8 @@
   },
   {
     "name": "ロケット団のダグトリオ 【AR】{206/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11402,8 +11402,8 @@
   },
   {
     "name": "ゴマゾウ 【AR】{115/106}[SV8]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11415,8 +11415,8 @@
   },
   {
     "name": "アサナン 【AR】{111/102}[SV7]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11428,8 +11428,8 @@
   },
   {
     "name": "チャーレム 【AR】{207/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11441,8 +11441,8 @@
   },
   {
     "name": "ビブラーバ 【AR】{071/064}[SV7a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11454,8 +11454,8 @@
   },
   {
     "name": "フライゴン 【AR】{088/080}[M2]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11467,8 +11467,8 @@
   },
   {
     "name": "ソルロック 【AR】{189/172}[S12a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11480,8 +11480,8 @@
   },
   {
     "name": "ネンドール 【AR】{090/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11493,8 +11493,8 @@
   },
   {
     "name": "ジーランス 【AR】{077/071}[SV5K]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11506,8 +11506,8 @@
   },
   {
     "name": "リオル 【AR】{068/063}[M1L]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11519,8 +11519,8 @@
   },
   {
     "name": "ダイノーズ 【AR】{076/066}[SV5a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11532,8 +11532,8 @@
   },
   {
     "name": "ダイノーズ 【AR】{088/080}[M3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11545,8 +11545,8 @@
   },
   {
     "name": "ドッコラー 【AR】{109/101}[SV6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11558,8 +11558,8 @@
   },
   {
     "name": "メグロコ 【AR】{087/078}[SV1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11571,8 +11571,8 @@
   },
   {
     "name": "バンバドロ 【AR】{078/071}[SV5K]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11584,8 +11584,8 @@
   },
   {
     "name": "マーシャドー 【AR】{069/063}[M1L]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11597,8 +11597,8 @@
   },
   {
     "name": "コジオ 【AR】{078/071}[SV2D]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11610,8 +11610,8 @@
   },
   {
     "name": "キョジオーン 【AR】{070/063}[M1L]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11623,8 +11623,8 @@
   },
   {
     "name": "チヲハウハネ 【AR】{074/066}[SV4K]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11636,8 +11636,8 @@
   },
   {
     "name": "イイネイヌ 【AR】{110/101}[SV6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11649,8 +11649,8 @@
   },
   {
     "name": "マーイーカ 【AR】{085/076}[M6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11662,8 +11662,8 @@
   },
   {
     "name": "シロナのミカルゲ 【AR】{208/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11675,8 +11675,8 @@
   },
   {
     "name": "デルビル 【AR】{115/108}[SV3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11688,8 +11688,8 @@
   },
   {
     "name": "ミカルゲ 【AR】{071/063}[M1L]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11701,8 +11701,8 @@
   },
   {
     "name": "ドラピオン 【AR】{090/080}[M3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11714,8 +11714,8 @@
   },
   {
     "name": "フォクスライ 【AR】{192/172}[S12a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11727,8 +11727,8 @@
   },
   {
     "name": "ストリンダー 【AR】{089/080}[M2]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11740,8 +11740,8 @@
   },
   {
     "name": "ガラルタチフサグマ 【AR】{209/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11753,8 +11753,8 @@
   },
   {
     "name": "シルシュルー 【AR】{072/063}[M1L]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11766,8 +11766,8 @@
   },
   {
     "name": "タギングル 【AR】{080/071}[SV2D]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11779,8 +11779,8 @@
   },
   {
     "name": "オトシドリ 【AR】{089/078}[SV1V]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11792,8 +11792,8 @@
   },
   {
     "name": "クロバット 【AR】{091/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11805,8 +11805,8 @@
   },
   {
     "name": "フォクスライ 【AR】{089/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11818,8 +11818,8 @@
   },
   {
     "name": "ザルード 【AR】{090/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11831,8 +11831,8 @@
   },
   {
     "name": "アローラダグトリオ 【AR】{116/106}[SV8]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11844,8 +11844,8 @@
   },
   {
     "name": "ハガネール 【AR】{073/063}[M1L]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11857,8 +11857,8 @@
   },
   {
     "name": "コドラ 【AR】{111/101}[SV6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11870,8 +11870,8 @@
   },
   {
     "name": "ジバコイル 【AR】{193/172}[S12a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11883,8 +11883,8 @@
   },
   {
     "name": "ニダンギル 【AR】{091/080}[M3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11896,8 +11896,8 @@
   },
   {
     "name": "トゲデマル 【AR】{090/080}[M2]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11909,8 +11909,8 @@
   },
   {
     "name": "メルタン 【AR】{081/071}[SV5M]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11922,8 +11922,8 @@
   },
   {
     "name": "ザマゼンタ 【AR】{107/098}[SV10]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11935,8 +11935,8 @@
   },
   {
     "name": "ブロロン 【AR】{117/108}[SV3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11948,8 +11948,8 @@
   },
   {
     "name": "ブリジュラス 【AR】{113/102}[SV7]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11961,8 +11961,8 @@
   },
   {
     "name": "メタング 【AR】{092/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11974,8 +11974,8 @@
   },
   {
     "name": "トリデプス 【AR】{091/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -11987,8 +11987,8 @@
   },
   {
     "name": "カジッチュ 【AR】{077/066}[SV5a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12000,8 +12000,8 @@
   },
   {
     "name": "アップリュー 【AR】{074/064}[SV7a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12013,8 +12013,8 @@
   },
   {
     "name": "ドラメシヤ 【AR】{211/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12026,8 +12026,8 @@
   },
   {
     "name": "ドロンチ 【AR】{212/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12039,8 +12039,8 @@
   },
   {
     "name": "ヌメイル 【AR】{093/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12052,8 +12052,8 @@
   },
   {
     "name": "ルリリ 【AR】{086/076}[M6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12065,8 +12065,8 @@
   },
   {
     "name": "チルタリス 【AR】{087/076}[M6]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12078,8 +12078,8 @@
   },
   {
     "name": "スピンロトム 【AR】{213/193}[M2a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12091,8 +12091,8 @@
   },
   {
     "name": "ペパーのヨクバリス 【AR】{075/063}[SV9a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12104,8 +12104,8 @@
   },
   {
     "name": "ロケット団のラッタ 【AR】{108/098}[SV10]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12117,8 +12117,8 @@
   },
   {
     "name": "ピジョン 【AR】{119/108}[SV3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12130,8 +12130,8 @@
   },
   {
     "name": "ラッタ 【AR】{092/080}[M3]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12143,8 +12143,8 @@
   },
   {
     "name": "オニスズメ 【AR】{074/063}[M1L]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12156,8 +12156,8 @@
   },
   {
     "name": "ケンタロス 【AR】{094/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12169,8 +12169,8 @@
   },
   {
     "name": "ヨルノズク 【AR】{114/102}[SV7]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12182,8 +12182,8 @@
   },
   {
     "name": "デリバード 【AR】{074/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12195,8 +12195,8 @@
   },
   {
     "name": "ナマケロ 【AR】{117/106}[SV8]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12208,8 +12208,8 @@
   },
   {
     "name": "ドゴーム 【AR】{078/066}[SV4K]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12221,8 +12221,8 @@
   },
   {
     "name": "カクレオン 【AR】{118/106}[SV8]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12234,8 +12234,8 @@
   },
   {
     "name": "エテボース 【AR】{092/080}[M2]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12247,8 +12247,8 @@
   },
   {
     "name": "ミルホッグ 【AR】{095/083}[M4]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12260,8 +12260,8 @@
   },
   {
     "name": "ウォーグル 【AR】{076/064}[SV7a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12273,8 +12273,8 @@
   },
   {
     "name": "デカグース 【AR】{075/063}[M1L]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12286,8 +12286,8 @@
   },
   {
     "name": "ヌイコグマ 【AR】{075/063}[M1S]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12299,8 +12299,8 @@
   },
   {
     "name": "ホシガリス 【AR】{090/078}[SV1V]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12312,8 +12312,8 @@
   },
   {
     "name": "カラミンゴ 【AR】{082/071}[SV2D]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12325,8 +12325,8 @@
   },
   {
     "name": "テツノコウベ 【AR】{078/066}[SV4M]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12338,8 +12338,8 @@
   },
   {
     "name": "ドデカバシ 【AR】{092/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12351,8 +12351,8 @@
   },
   {
     "name": "シルヴァディ 【AR】{093/081}[M5]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12364,7 +12364,7 @@
   },
   {
     "name": "ルージュラ 【CHR】{071/068}[S11a]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 90,
     "priceB": 45,
     "priceC": 15,
@@ -12377,7 +12377,7 @@
   },
   {
     "name": "カラマネロ 【CHR】{199/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 90,
     "priceB": 45,
     "priceC": 15,
@@ -12390,7 +12390,7 @@
   },
   {
     "name": "アヤシシ 【CHR】{070/067}[S9a]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 90,
     "priceB": 45,
     "priceC": 15,
@@ -12403,7 +12403,7 @@
   },
   {
     "name": "ナゲツケサル 【CHR】{203/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 90,
     "priceB": 45,
     "priceC": 15,
@@ -12416,7 +12416,7 @@
   },
   {
     "name": "ドータクン 【CHR】{208/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 90,
     "priceB": 45,
     "priceC": 15,
@@ -12429,7 +12429,7 @@
   },
   {
     "name": "ヤレユータン 【CHR】{212/184}[S8b]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 90,
     "priceB": 45,
     "priceC": 15,
@@ -12442,7 +12442,7 @@
   },
   {
     "name": "ドーブル 【CHR】{073/068}[S11a]",
-    "priceS": 230,
+    "priceS": 150,
     "priceA": 90,
     "priceB": 45,
     "priceC": 15,
@@ -12455,8 +12455,8 @@
   },
   {
     "name": "イッカネズミ 30th【AR】{123/103}[M6a]",
-    "priceS": 230,
-    "priceA": 90,
+    "priceS": 150,
+    "priceA": 75,
     "priceB": 45,
     "priceC": 15,
     "priceD": 1,
@@ -12468,8 +12468,8 @@
   },
   {
     "name": "アローラナッシー 30th【AR】{104/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12481,8 +12481,8 @@
   },
   {
     "name": "ファイヤー 30th【AR】{105/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12494,8 +12494,8 @@
   },
   {
     "name": "ラプラス 30th【AR】{106/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12507,8 +12507,8 @@
   },
   {
     "name": "フリーザー 30th【AR】{107/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12520,8 +12520,8 @@
   },
   {
     "name": "サンダー 30th【AR】{108/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12533,8 +12533,8 @@
   },
   {
     "name": "ストリンダー 30th【AR】{109/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12546,8 +12546,8 @@
   },
   {
     "name": "モルペコ 30th【AR】{110/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12559,8 +12559,8 @@
   },
   {
     "name": "フワンテ 30th【AR】{111/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12572,8 +12572,8 @@
   },
   {
     "name": "シャンデラ 30th【AR】{112/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12585,8 +12585,8 @@
   },
   {
     "name": "ルガルガン 30th【AR】{113/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12598,8 +12598,8 @@
   },
   {
     "name": "ニドリーナ 30th【AR】{114/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12611,8 +12611,8 @@
   },
   {
     "name": "アローラニャース 30th【AR】{115/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12624,8 +12624,8 @@
   },
   {
     "name": "ズルッグ 30th【AR】{116/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12637,8 +12637,8 @@
   },
   {
     "name": "ガラルニャース 30th【AR】{117/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12650,8 +12650,8 @@
   },
   {
     "name": "サーフゴー 30th【AR】{118/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12663,8 +12663,8 @@
   },
   {
     "name": "ジャラランガ 30th【AR】{119/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12676,8 +12676,8 @@
   },
   {
     "name": "ニャース 30th【AR】{120/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12689,8 +12689,8 @@
   },
   {
     "name": "メタモン 30th【AR】{121/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
@@ -12702,8 +12702,8 @@
   },
   {
     "name": "ヒスイゾロア 30th【AR】{122/103}[M6a]",
-    "priceS": 230,
-    "priceA": 60,
+    "priceS": 150,
+    "priceA": 50,
     "priceB": 30,
     "priceC": 10,
     "priceD": 1,
